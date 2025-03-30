@@ -1,0 +1,251 @@
+
+sakuragirl.png
+size: 235,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 4
+  size: 59, 60
+  orig: 60, 63
+  offset: 0, 2
+  index: -1
+quan
+  rotate: false
+  xy: 161, 79
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: false
+  xy: 118, 9
+  size: 14, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+下摆
+  rotate: false
+  xy: 63, 16
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+刘海
+  rotate: false
+  xy: 2, 100
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 170, 38
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+右眼白
+  rotate: false
+  xy: 98, 2
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+右眼睫毛
+  rotate: true
+  xy: 208, 191
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+右眼瞳
+  rotate: true
+  xy: 63, 2
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+右脚
+  rotate: false
+  xy: 108, 69
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+右臂
+  rotate: false
+  xy: 132, 159
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+右闭眼
+  rotate: false
+  xy: 204, 3
+  size: 26, 33
+  orig: 33, 41
+  offset: 4, 4
+  index: -1
+右鬓
+  rotate: false
+  xy: 94, 100
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+嘴1
+  rotate: true
+  xy: 87, 3
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 2, 161
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1
+头绳
+  rotate: false
+  xy: 108, 79
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 187, 51
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+左眼白
+  rotate: true
+  xy: 208, 213
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+左眼睫毛
+  rotate: true
+  xy: 208, 239
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+左眼瞳
+  rotate: true
+  xy: 170, 59
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+左脚
+  rotate: false
+  xy: 221, 181
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+左臂
+  rotate: true
+  xy: 161, 114
+  size: 43, 30
+  orig: 43, 35
+  offset: 0, 5
+  index: -1
+左闭眼
+  rotate: false
+  xy: 122, 119
+  size: 37, 38
+  orig: 43, 42
+  offset: 3, 1
+  index: -1
+左鬓
+  rotate: true
+  xy: 2, 66
+  size: 32, 104
+  orig: 32, 104
+  offset: 0, 0
+  index: -1
+扇子
+  rotate: true
+  xy: 193, 114
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+灯笼
+  rotate: false
+  xy: 134, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+灯笼光
+  rotate: false
+  xy: 122, 80
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+灯笼光 拷贝
+  rotate: false
+  xy: 196, 75
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+灯笼绳
+  rotate: false
+  xy: 170, 47
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+脸
+  rotate: false
+  xy: 132, 191
+  size: 74, 74
+  orig: 77, 74
+  offset: 3, 0
+  index: -1
+装饰灯笼1
+  rotate: true
+  xy: 182, 160
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+装饰灯笼2
+  rotate: false
+  xy: 98, 25
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+装饰灯笼3
+  rotate: true
+  xy: 196, 38
+  size: 35, 37
+  orig: 35, 45
+  offset: 0, 2
+  index: -1
+装饰灯笼4
+  rotate: false
+  xy: 134, 38
+  size: 34, 39
+  orig: 35, 41
+  offset: 1, 2
+  index: -1
+身体
+  rotate: true
+  xy: 167, 5
+  size: 31, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,398 @@
+
+keren_3.png
+size: 830,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刘海
+  rotate: true
+  xy: 482, 167
+  size: 156, 200
+  orig: 156, 200
+  offset: 0, 0
+  index: -1
+刘海_0
+  rotate: true
+  xy: 556, 590
+  size: 174, 200
+  orig: 174, 200
+  offset: 0, 0
+  index: -1
+吃饭_嘴巴
+  rotate: false
+  xy: 400, 380
+  size: 16, 13
+  orig: 18, 16
+  offset: 0, 3
+  index: -1
+后脑勺
+  rotate: true
+  xy: 2, 105
+  size: 187, 179
+  orig: 187, 179
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: false
+  xy: 446, 389
+  size: 28, 4
+  orig: 28, 4
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: false
+  xy: 446, 389
+  size: 28, 4
+  orig: 28, 4
+  offset: 0, 0
+  index: -1
+头发
+  rotate: false
+  xy: 315, 514
+  size: 239, 250
+  orig: 241, 254
+  offset: 0, 4
+  index: -1
+头发1
+  rotate: false
+  xy: 2, 294
+  size: 193, 232
+  orig: 197, 244
+  offset: 1, 12
+  index: -1
+头发_0
+  rotate: false
+  xy: 197, 94
+  size: 193, 146
+  orig: 194, 153
+  offset: 1, 3
+  index: -1
+头发_1
+  rotate: true
+  xy: 2, 528
+  size: 236, 311
+  orig: 236, 315
+  offset: 0, 4
+  index: -1
+头发_2
+  rotate: true
+  xy: 197, 242
+  size: 127, 283
+  orig: 128, 288
+  offset: 0, 4
+  index: -1
+手1
+  rotate: false
+  xy: 741, 58
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+手1_0
+  rotate: false
+  xy: 574, 27
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+手1_1
+  rotate: false
+  xy: 789, 8
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+手2
+  rotate: true
+  xy: 741, 11
+  size: 45, 46
+  orig: 51, 48
+  offset: 5, 0
+  index: -1
+手2_0
+  rotate: false
+  xy: 788, 60
+  size: 40, 45
+  orig: 43, 45
+  offset: 3, 0
+  index: -1
+手2_1
+  rotate: true
+  xy: 776, 550
+  size: 48, 47
+  orig: 52, 48
+  offset: 1, 1
+  index: -1
+手机
+  rotate: false
+  xy: 556, 515
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+打瞌睡嘴巴
+  rotate: true
+  xy: 350, 374
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+打瞌睡眼睛1
+  rotate: false
+  xy: 310, 374
+  size: 38, 19
+  orig: 40, 19
+  offset: 1, 0
+  index: -1
+打瞌睡眼睛2
+  rotate: false
+  xy: 372, 376
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+眉毛1
+  rotate: true
+  xy: 183, 230
+  size: 46, 5
+  orig: 46, 5
+  offset: 0, 0
+  index: -1
+眉毛2_0
+  rotate: true
+  xy: 183, 230
+  size: 46, 5
+  orig: 46, 5
+  offset: 0, 0
+  index: -1
+眉毛1_0
+  rotate: false
+  xy: 418, 388
+  size: 26, 5
+  orig: 26, 5
+  offset: 0, 0
+  index: -1
+眉毛2
+  rotate: true
+  xy: 190, 230
+  size: 46, 5
+  orig: 46, 5
+  offset: 0, 0
+  index: -1
+眼睛1
+  rotate: true
+  xy: 136, 53
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+眼睛2_0
+  rotate: true
+  xy: 136, 53
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+眼睛1_0
+  rotate: true
+  xy: 776, 518
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+眼睛2
+  rotate: false
+  xy: 617, 2
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+筷子
+  rotate: false
+  xy: 758, 600
+  size: 55, 48
+  orig: 58, 52
+  offset: 1, 3
+  index: -1
+胳膊1
+  rotate: false
+  xy: 684, 109
+  size: 67, 115
+  orig: 71, 115
+  offset: 4, 0
+  index: -1
+胳膊1_0
+  rotate: true
+  xy: 660, 518
+  size: 70, 114
+  orig: 71, 114
+  offset: 1, 0
+  index: -1
+胳膊1_1
+  rotate: true
+  xy: 460, 74
+  size: 45, 116
+  orig: 47, 118
+  offset: 2, 2
+  index: -1
+胳膊2
+  rotate: false
+  xy: 758, 650
+  size: 70, 114
+  orig: 73, 116
+  offset: 1, 1
+  index: -1
+胳膊2_0
+  rotate: false
+  xy: 684, 226
+  size: 68, 115
+  orig: 68, 115
+  offset: 0, 0
+  index: -1
+胳膊2_1
+  rotate: false
+  xy: 392, 131
+  size: 82, 109
+  orig: 82, 116
+  offset: 0, 1
+  index: -1
+脸
+  rotate: true
+  xy: 482, 325
+  size: 187, 179
+  orig: 187, 179
+  offset: 0, 0
+  index: -1
+脸_0
+  rotate: false
+  xy: 663, 343
+  size: 152, 173
+  orig: 152, 173
+  offset: 0, 0
+  index: -1
+腿1
+  rotate: true
+  xy: 250, 9
+  size: 40, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+腿1_0
+  rotate: true
+  xy: 460, 31
+  size: 41, 112
+  orig: 45, 113
+  offset: 1, 0
+  index: -1
+腿1_1
+  rotate: false
+  xy: 392, 16
+  size: 66, 113
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+腿2
+  rotate: true
+  xy: 184, 51
+  size: 41, 112
+  orig: 42, 115
+  offset: 1, 0
+  index: -1
+腿2_0
+  rotate: true
+  xy: 136, 8
+  size: 41, 112
+  orig: 41, 114
+  offset: 0, 0
+  index: -1
+腿2_1
+  rotate: false
+  xy: 754, 226
+  size: 63, 115
+  orig: 63, 115
+  offset: 0, 0
+  index: -1
+裙子
+  rotate: true
+  xy: 617, 50
+  size: 115, 54
+  orig: 117, 56
+  offset: 0, 0
+  index: -1
+裤子_0
+  rotate: true
+  xy: 617, 50
+  size: 115, 54
+  orig: 117, 56
+  offset: 0, 0
+  index: -1
+裤子
+  rotate: true
+  xy: 753, 107
+  size: 117, 54
+  orig: 117, 57
+  offset: 0, 1
+  index: -1
+身体
+  rotate: true
+  xy: 2, 7
+  size: 96, 132
+  orig: 100, 135
+  offset: 4, 0
+  index: -1
+身体_0
+  rotate: true
+  xy: 310, 395
+  size: 117, 158
+  orig: 117, 158
+  offset: 0, 0
+  index: -1
+身体_1
+  rotate: false
+  xy: 197, 371
+  size: 111, 155
+  orig: 111, 156
+  offset: 0, 1
+  index: -1
+阴影
+  rotate: false
+  xy: 476, 121
+  size: 139, 44
+  orig: 144, 44
+  offset: 5, 0
+  index: -1
+阴影_0
+  rotate: false
+  xy: 476, 121
+  size: 139, 44
+  orig: 144, 44
+  offset: 5, 0
+  index: -1
+阴影_1
+  rotate: false
+  xy: 476, 121
+  size: 139, 44
+  orig: 144, 44
+  offset: 5, 0
+  index: -1
+鼻子
+  rotate: false
+  xy: 183, 278
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+鼻子_0
+  rotate: false
+  xy: 183, 278
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+鼻涕泡
+  rotate: true
+  xy: 673, 15
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1

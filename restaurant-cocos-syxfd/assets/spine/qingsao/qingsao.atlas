@@ -1,0 +1,55 @@
+
+qingsao.png
+size: 371,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daguang
+  rotate: false
+  xy: 2, 2
+  size: 202, 197
+  orig: 212, 209
+  offset: 5, 6
+  index: -1
+li1
+  rotate: false
+  xy: 206, 33
+  size: 53, 53
+  orig: 57, 57
+  offset: 2, 2
+  index: -1
+li2
+  rotate: false
+  xy: 261, 33
+  size: 53, 53
+  orig: 57, 57
+  offset: 2, 2
+  index: -1
+li3
+  rotate: false
+  xy: 315, 146
+  size: 53, 53
+  orig: 57, 57
+  offset: 2, 2
+  index: -1
+li4
+  rotate: false
+  xy: 315, 91
+  size: 53, 53
+  orig: 57, 57
+  offset: 2, 2
+  index: -1
+li5
+  rotate: false
+  xy: 316, 36
+  size: 53, 53
+  orig: 57, 57
+  offset: 2, 2
+  index: -1
+quian
+  rotate: true
+  xy: 206, 88
+  size: 111, 107
+  orig: 111, 108
+  offset: 0, 1
+  index: -1

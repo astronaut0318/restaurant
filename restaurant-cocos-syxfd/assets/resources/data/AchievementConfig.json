@@ -1,0 +1,1938 @@
+[
+	{
+		"id": 1,
+		"info": "累计招待100个客人",
+		"reward_type": 1,
+		"reward_value": 2000,
+		"condition_key": 1,
+		"condition_value": 100
+	},
+	{
+		"id": 2,
+		"info": "累计解锁5个菜谱",
+		"reward_type": 1,
+		"reward_value": 2000,
+		"condition_key": 3,
+		"condition_value": 5
+	},
+	{
+		"id": 3,
+		"info": "累计解锁5个装饰",
+		"reward_type": 1,
+		"reward_value": 2000,
+		"condition_key": 5,
+		"condition_value": 5
+	},
+	{
+		"id": 4,
+		"info": "累计解锁5个桌子",
+		"reward_type": 1,
+		"reward_value": 2000,
+		"condition_key": 4,
+		"condition_value": 5
+	},
+	{
+		"id": 5,
+		"info": "累计观看20个视频",
+		"reward_type": 1,
+		"reward_value": 5000,
+		"condition_key": 6,
+		"condition_value": 20
+	},
+	{
+		"id": 6,
+		"info": "累计招待200个客人",
+		"reward_type": 1,
+		"reward_value": 2500,
+		"condition_key": 1,
+		"condition_value": 200
+	},
+	{
+		"id": 7,
+		"info": "累计解锁10个菜谱",
+		"reward_type": 1,
+		"reward_value": 2500,
+		"condition_key": 3,
+		"condition_value": 10
+	},
+	{
+		"id": 8,
+		"info": "累计解锁10个装饰",
+		"reward_type": 1,
+		"reward_value": 2500,
+		"condition_key": 5,
+		"condition_value": 10
+	},
+	{
+		"id": 9,
+		"info": "累计解锁10个桌子",
+		"reward_type": 1,
+		"reward_value": 2500,
+		"condition_key": 4,
+		"condition_value": 10
+	},
+	{
+		"id": 10,
+		"info": "累计观看40个视频",
+		"reward_type": 1,
+		"reward_value": 7500,
+		"condition_key": 6,
+		"condition_value": 40
+	},
+	{
+		"id": 11,
+		"info": "累计招待300个客人",
+		"reward_type": 1,
+		"reward_value": 3000,
+		"condition_key": 1,
+		"condition_value": 300
+	},
+	{
+		"id": 12,
+		"info": "累计解锁15个菜谱",
+		"reward_type": 1,
+		"reward_value": 3000,
+		"condition_key": 3,
+		"condition_value": 15
+	},
+	{
+		"id": 13,
+		"info": "累计解锁15个装饰",
+		"reward_type": 1,
+		"reward_value": 3000,
+		"condition_key": 5,
+		"condition_value": 15
+	},
+	{
+		"id": 14,
+		"info": "累计解锁15个桌子",
+		"reward_type": 1,
+		"reward_value": 3000,
+		"condition_key": 4,
+		"condition_value": 15
+	},
+	{
+		"id": 15,
+		"info": "累计观看60个视频",
+		"reward_type": 1,
+		"reward_value": 8000,
+		"condition_key": 6,
+		"condition_value": 60
+	},
+	{
+		"id": 16,
+		"info": "累计招待400个客人",
+		"reward_type": 1,
+		"reward_value": 3300,
+		"condition_key": 1,
+		"condition_value": 400
+	},
+	{
+		"id": 17,
+		"info": "累计解锁20个菜谱",
+		"reward_type": 1,
+		"reward_value": 3500,
+		"condition_key": 3,
+		"condition_value": 20
+	},
+	{
+		"id": 18,
+		"info": "累计解锁20个装饰",
+		"reward_type": 1,
+		"reward_value": 3500,
+		"condition_key": 5,
+		"condition_value": 20
+	},
+	{
+		"id": 19,
+		"info": "累计解锁20个桌子",
+		"reward_type": 1,
+		"reward_value": 3500,
+		"condition_key": 4,
+		"condition_value": 20
+	},
+	{
+		"id": 20,
+		"info": "累计观看80个视频",
+		"reward_type": 1,
+		"reward_value": 8500,
+		"condition_key": 6,
+		"condition_value": 80
+	},
+	{
+		"id": 21,
+		"info": "累计招待500个客人",
+		"reward_type": 1,
+		"reward_value": 3400,
+		"condition_key": 1,
+		"condition_value": 500
+	},
+	{
+		"id": 22,
+		"info": "累计解锁25个菜谱",
+		"reward_type": 1,
+		"reward_value": 3800,
+		"condition_key": 3,
+		"condition_value": 25
+	},
+	{
+		"id": 23,
+		"info": "累计解锁25个装饰",
+		"reward_type": 1,
+		"reward_value": 3800,
+		"condition_key": 5,
+		"condition_value": 25
+	},
+	{
+		"id": 24,
+		"info": "累计解锁25个桌子",
+		"reward_type": 1,
+		"reward_value": 3800,
+		"condition_key": 4,
+		"condition_value": 25
+	},
+	{
+		"id": 25,
+		"info": "累计观看100个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 100
+	},
+	{
+		"id": 26,
+		"info": "累计招待600个客人",
+		"reward_type": 1,
+		"reward_value": 3500,
+		"condition_key": 1,
+		"condition_value": 600
+	},
+	{
+		"id": 27,
+		"info": "累计解锁30个菜谱",
+		"reward_type": 1,
+		"reward_value": 4000,
+		"condition_key": 3,
+		"condition_value": 30
+	},
+	{
+		"id": 28,
+		"info": "累计解锁30个装饰",
+		"reward_type": 1,
+		"reward_value": 4000,
+		"condition_key": 5,
+		"condition_value": 30
+	},
+	{
+		"id": 29,
+		"info": "累计解锁30个桌子",
+		"reward_type": 1,
+		"reward_value": 4000,
+		"condition_key": 4,
+		"condition_value": 30
+	},
+	{
+		"id": 30,
+		"info": "累计观看120个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 120
+	},
+	{
+		"id": 31,
+		"info": "累计招待700个客人",
+		"reward_type": 1,
+		"reward_value": 3600,
+		"condition_key": 1,
+		"condition_value": 700
+	},
+	{
+		"id": 32,
+		"info": "累计解锁35个菜谱",
+		"reward_type": 1,
+		"reward_value": 4500,
+		"condition_key": 3,
+		"condition_value": 35
+	},
+	{
+		"id": 33,
+		"info": "累计解锁35个装饰",
+		"reward_type": 1,
+		"reward_value": 4500,
+		"condition_key": 5,
+		"condition_value": 35
+	},
+	{
+		"id": 34,
+		"info": "累计解锁35个桌子",
+		"reward_type": 1,
+		"reward_value": 4500,
+		"condition_key": 4,
+		"condition_value": 35
+	},
+	{
+		"id": 35,
+		"info": "累计观看140个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 140
+	},
+	{
+		"id": 36,
+		"info": "累计招待800个客人",
+		"reward_type": 1,
+		"reward_value": 3700,
+		"condition_key": 1,
+		"condition_value": 800
+	},
+	{
+		"id": 37,
+		"info": "累计解锁40个菜谱",
+		"reward_type": 1,
+		"reward_value": 5000,
+		"condition_key": 3,
+		"condition_value": 40
+	},
+	{
+		"id": 38,
+		"info": "累计解锁40个装饰",
+		"reward_type": 1,
+		"reward_value": 5000,
+		"condition_key": 5,
+		"condition_value": 40
+	},
+	{
+		"id": 39,
+		"info": "累计解锁40个桌子",
+		"reward_type": 1,
+		"reward_value": 5000,
+		"condition_key": 4,
+		"condition_value": 40
+	},
+	{
+		"id": 40,
+		"info": "累计观看160个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 160
+	},
+	{
+		"id": 41,
+		"info": "累计招待900个客人",
+		"reward_type": 1,
+		"reward_value": 3800,
+		"condition_key": 1,
+		"condition_value": 900
+	},
+	{
+		"id": 42,
+		"info": "累计解锁45个菜谱",
+		"reward_type": 1,
+		"reward_value": 5500,
+		"condition_key": 3,
+		"condition_value": 45
+	},
+	{
+		"id": 43,
+		"info": "累计解锁45个装饰",
+		"reward_type": 1,
+		"reward_value": 5500,
+		"condition_key": 5,
+		"condition_value": 45
+	},
+	{
+		"id": 44,
+		"info": "累计解锁45个桌子",
+		"reward_type": 1,
+		"reward_value": 5500,
+		"condition_key": 4,
+		"condition_value": 45
+	},
+	{
+		"id": 45,
+		"info": "累计观看180个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 180
+	},
+	{
+		"id": 46,
+		"info": "累计招待1000个客人",
+		"reward_type": 1,
+		"reward_value": 3900,
+		"condition_key": 1,
+		"condition_value": 1000
+	},
+	{
+		"id": 47,
+		"info": "累计解锁50个菜谱",
+		"reward_type": 1,
+		"reward_value": 6000,
+		"condition_key": 3,
+		"condition_value": 50
+	},
+	{
+		"id": 48,
+		"info": "累计解锁50个装饰",
+		"reward_type": 1,
+		"reward_value": 6000,
+		"condition_key": 5,
+		"condition_value": 50
+	},
+	{
+		"id": 49,
+		"info": "累计解锁50个桌子",
+		"reward_type": 1,
+		"reward_value": 6000,
+		"condition_key": 4,
+		"condition_value": 50
+	},
+	{
+		"id": 50,
+		"info": "累计观看200个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 200
+	},
+	{
+		"id": 51,
+		"info": "累计招待1100个客人",
+		"reward_type": 1,
+		"reward_value": 4000,
+		"condition_key": 1,
+		"condition_value": 1100
+	},
+	{
+		"id": 52,
+		"info": "累计解锁55个菜谱",
+		"reward_type": 1,
+		"reward_value": 6500,
+		"condition_key": 3,
+		"condition_value": 55
+	},
+	{
+		"id": 53,
+		"info": "累计解锁55个装饰",
+		"reward_type": 1,
+		"reward_value": 6500,
+		"condition_key": 5,
+		"condition_value": 55
+	},
+	{
+		"id": 54,
+		"info": "累计解锁55个桌子",
+		"reward_type": 1,
+		"reward_value": 6500,
+		"condition_key": 4,
+		"condition_value": 55
+	},
+	{
+		"id": 55,
+		"info": "累计观看220个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 220
+	},
+	{
+		"id": 56,
+		"info": "累计招待1200个客人",
+		"reward_type": 1,
+		"reward_value": 4100,
+		"condition_key": 1,
+		"condition_value": 1200
+	},
+	{
+		"id": 57,
+		"info": "累计解锁60个菜谱",
+		"reward_type": 1,
+		"reward_value": 7000,
+		"condition_key": 3,
+		"condition_value": 60
+	},
+	{
+		"id": 58,
+		"info": "累计解锁60个装饰",
+		"reward_type": 1,
+		"reward_value": 7000,
+		"condition_key": 5,
+		"condition_value": 60
+	},
+	{
+		"id": 59,
+		"info": "累计解锁60个桌子",
+		"reward_type": 1,
+		"reward_value": 7000,
+		"condition_key": 4,
+		"condition_value": 60
+	},
+	{
+		"id": 60,
+		"info": "累计观看240个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 240
+	},
+	{
+		"id": 61,
+		"info": "累计招待1300个客人",
+		"reward_type": 1,
+		"reward_value": 4200,
+		"condition_key": 1,
+		"condition_value": 1300
+	},
+	{
+		"id": 62,
+		"info": "累计解锁65个装饰",
+		"reward_type": 1,
+		"reward_value": 7400,
+		"condition_key": 5,
+		"condition_value": 65
+	},
+	{
+		"id": 63,
+		"info": "累计观看260个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 260
+	},
+	{
+		"id": 64,
+		"info": "累计招待1400个客人",
+		"reward_type": 1,
+		"reward_value": 4300,
+		"condition_key": 1,
+		"condition_value": 1400
+	},
+	{
+		"id": 65,
+		"info": "累计解锁70个装饰",
+		"reward_type": 1,
+		"reward_value": 7600,
+		"condition_key": 5,
+		"condition_value": 70
+	},
+	{
+		"id": 66,
+		"info": "累计观看280个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 280
+	},
+	{
+		"id": 67,
+		"info": "累计招待1500个客人",
+		"reward_type": 1,
+		"reward_value": 4400,
+		"condition_key": 1,
+		"condition_value": 1500
+	},
+	{
+		"id": 68,
+		"info": "累计解锁75个装饰",
+		"reward_type": 1,
+		"reward_value": 7800,
+		"condition_key": 5,
+		"condition_value": 75
+	},
+	{
+		"id": 69,
+		"info": "累计观看300个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 300
+	},
+	{
+		"id": 70,
+		"info": "累计招待1600个客人",
+		"reward_type": 1,
+		"reward_value": 4500,
+		"condition_key": 1,
+		"condition_value": 1600
+	},
+	{
+		"id": 71,
+		"info": "累计解锁80个装饰",
+		"reward_type": 1,
+		"reward_value": 8000,
+		"condition_key": 5,
+		"condition_value": 80
+	},
+	{
+		"id": 72,
+		"info": "累计观看320个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 320
+	},
+	{
+		"id": 73,
+		"info": "累计招待1700个客人",
+		"reward_type": 1,
+		"reward_value": 4600,
+		"condition_key": 1,
+		"condition_value": 1700
+	},
+	{
+		"id": 74,
+		"info": "累计解锁85个装饰",
+		"reward_type": 1,
+		"reward_value": 8200,
+		"condition_key": 5,
+		"condition_value": 85
+	},
+	{
+		"id": 75,
+		"info": "累计观看340个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 340
+	},
+	{
+		"id": 76,
+		"info": "累计招待1800个客人",
+		"reward_type": 1,
+		"reward_value": 4700,
+		"condition_key": 1,
+		"condition_value": 1800
+	},
+	{
+		"id": 77,
+		"info": "累计解锁90个装饰",
+		"reward_type": 1,
+		"reward_value": 8400,
+		"condition_key": 5,
+		"condition_value": 90
+	},
+	{
+		"id": 78,
+		"info": "累计观看360个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 360
+	},
+	{
+		"id": 79,
+		"info": "累计招待1900个客人",
+		"reward_type": 1,
+		"reward_value": 4800,
+		"condition_key": 1,
+		"condition_value": 1900
+	},
+	{
+		"id": 80,
+		"info": "累计观看380个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 380
+	},
+	{
+		"id": 81,
+		"info": "累计招待2000个客人",
+		"reward_type": 1,
+		"reward_value": 4900,
+		"condition_key": 1,
+		"condition_value": 2000
+	},
+	{
+		"id": 82,
+		"info": "累计观看400个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 400
+	},
+	{
+		"id": 83,
+		"info": "累计招待2100个客人",
+		"reward_type": 1,
+		"reward_value": 5000,
+		"condition_key": 1,
+		"condition_value": 2100
+	},
+	{
+		"id": 84,
+		"info": "累计观看420个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 420
+	},
+	{
+		"id": 85,
+		"info": "累计招待2200个客人",
+		"reward_type": 1,
+		"reward_value": 5100,
+		"condition_key": 1,
+		"condition_value": 2200
+	},
+	{
+		"id": 86,
+		"info": "累计观看440个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 440
+	},
+	{
+		"id": 87,
+		"info": "累计招待2300个客人",
+		"reward_type": 1,
+		"reward_value": 5200,
+		"condition_key": 1,
+		"condition_value": 2300
+	},
+	{
+		"id": 88,
+		"info": "累计观看460个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 460
+	},
+	{
+		"id": 89,
+		"info": "累计招待2400个客人",
+		"reward_type": 1,
+		"reward_value": 5300,
+		"condition_key": 1,
+		"condition_value": 2400
+	},
+	{
+		"id": 90,
+		"info": "累计观看480个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 480
+	},
+	{
+		"id": 91,
+		"info": "累计招待2500个客人",
+		"reward_type": 1,
+		"reward_value": 5400,
+		"condition_key": 1,
+		"condition_value": 2500
+	},
+	{
+		"id": 92,
+		"info": "累计观看500个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 500
+	},
+	{
+		"id": 93,
+		"info": "累计招待2600个客人",
+		"reward_type": 1,
+		"reward_value": 5500,
+		"condition_key": 1,
+		"condition_value": 2600
+	},
+	{
+		"id": 94,
+		"info": "累计观看520个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 520
+	},
+	{
+		"id": 95,
+		"info": "累计招待2700个客人",
+		"reward_type": 1,
+		"reward_value": 5600,
+		"condition_key": 1,
+		"condition_value": 2700
+	},
+	{
+		"id": 96,
+		"info": "累计观看540个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 540
+	},
+	{
+		"id": 97,
+		"info": "累计招待2800个客人",
+		"reward_type": 1,
+		"reward_value": 5700,
+		"condition_key": 1,
+		"condition_value": 2800
+	},
+	{
+		"id": 98,
+		"info": "累计观看560个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 560
+	},
+	{
+		"id": 99,
+		"info": "累计招待2900个客人",
+		"reward_type": 1,
+		"reward_value": 5800,
+		"condition_key": 1,
+		"condition_value": 2900
+	},
+	{
+		"id": 100,
+		"info": "累计观看580个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 580
+	},
+	{
+		"id": 101,
+		"info": "累计招待3000个客人",
+		"reward_type": 1,
+		"reward_value": 5900,
+		"condition_key": 1,
+		"condition_value": 3000
+	},
+	{
+		"id": 102,
+		"info": "累计观看600个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 600
+	},
+	{
+		"id": 103,
+		"info": "累计招待3100个客人",
+		"reward_type": 1,
+		"reward_value": 6000,
+		"condition_key": 1,
+		"condition_value": 3100
+	},
+	{
+		"id": 104,
+		"info": "累计观看620个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 620
+	},
+	{
+		"id": 105,
+		"info": "累计招待3200个客人",
+		"reward_type": 1,
+		"reward_value": 6100,
+		"condition_key": 1,
+		"condition_value": 3200
+	},
+	{
+		"id": 106,
+		"info": "累计观看640个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 640
+	},
+	{
+		"id": 107,
+		"info": "累计招待3300个客人",
+		"reward_type": 1,
+		"reward_value": 6200,
+		"condition_key": 1,
+		"condition_value": 3300
+	},
+	{
+		"id": 108,
+		"info": "累计观看660个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 660
+	},
+	{
+		"id": 109,
+		"info": "累计招待3400个客人",
+		"reward_type": 1,
+		"reward_value": 6300,
+		"condition_key": 1,
+		"condition_value": 3400
+	},
+	{
+		"id": 110,
+		"info": "累计观看680个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 680
+	},
+	{
+		"id": 111,
+		"info": "累计招待3500个客人",
+		"reward_type": 1,
+		"reward_value": 6400,
+		"condition_key": 1,
+		"condition_value": 3500
+	},
+	{
+		"id": 112,
+		"info": "累计观看700个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 700
+	},
+	{
+		"id": 113,
+		"info": "累计招待3600个客人",
+		"reward_type": 1,
+		"reward_value": 6500,
+		"condition_key": 1,
+		"condition_value": 3600
+	},
+	{
+		"id": 114,
+		"info": "累计观看720个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 720
+	},
+	{
+		"id": 115,
+		"info": "累计招待3700个客人",
+		"reward_type": 1,
+		"reward_value": 6600,
+		"condition_key": 1,
+		"condition_value": 3700
+	},
+	{
+		"id": 116,
+		"info": "累计观看740个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 740
+	},
+	{
+		"id": 117,
+		"info": "累计招待3800个客人",
+		"reward_type": 1,
+		"reward_value": 6700,
+		"condition_key": 1,
+		"condition_value": 3800
+	},
+	{
+		"id": 118,
+		"info": "累计观看760个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 760
+	},
+	{
+		"id": 119,
+		"info": "累计招待3900个客人",
+		"reward_type": 1,
+		"reward_value": 6800,
+		"condition_key": 1,
+		"condition_value": 3900
+	},
+	{
+		"id": 120,
+		"info": "累计观看780个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 780
+	},
+	{
+		"id": 121,
+		"info": "累计招待4000个客人",
+		"reward_type": 1,
+		"reward_value": 6900,
+		"condition_key": 1,
+		"condition_value": 4000
+	},
+	{
+		"id": 122,
+		"info": "累计观看800个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 800
+	},
+	{
+		"id": 123,
+		"info": "累计招待4100个客人",
+		"reward_type": 1,
+		"reward_value": 7000,
+		"condition_key": 1,
+		"condition_value": 4100
+	},
+	{
+		"id": 124,
+		"info": "累计观看820个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 820
+	},
+	{
+		"id": 125,
+		"info": "累计招待4200个客人",
+		"reward_type": 1,
+		"reward_value": 7100,
+		"condition_key": 1,
+		"condition_value": 4200
+	},
+	{
+		"id": 126,
+		"info": "累计观看840个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 840
+	},
+	{
+		"id": 127,
+		"info": "累计招待4300个客人",
+		"reward_type": 1,
+		"reward_value": 7200,
+		"condition_key": 1,
+		"condition_value": 4300
+	},
+	{
+		"id": 128,
+		"info": "累计观看860个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 860
+	},
+	{
+		"id": 129,
+		"info": "累计招待4400个客人",
+		"reward_type": 1,
+		"reward_value": 7300,
+		"condition_key": 1,
+		"condition_value": 4400
+	},
+	{
+		"id": 130,
+		"info": "累计观看880个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 880
+	},
+	{
+		"id": 131,
+		"info": "累计招待4500个客人",
+		"reward_type": 1,
+		"reward_value": 7400,
+		"condition_key": 1,
+		"condition_value": 4500
+	},
+	{
+		"id": 132,
+		"info": "累计观看900个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 900
+	},
+	{
+		"id": 133,
+		"info": "累计招待4600个客人",
+		"reward_type": 1,
+		"reward_value": 7500,
+		"condition_key": 1,
+		"condition_value": 4600
+	},
+	{
+		"id": 134,
+		"info": "累计观看920个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 920
+	},
+	{
+		"id": 135,
+		"info": "累计招待4700个客人",
+		"reward_type": 1,
+		"reward_value": 7600,
+		"condition_key": 1,
+		"condition_value": 4700
+	},
+	{
+		"id": 136,
+		"info": "累计观看940个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 940
+	},
+	{
+		"id": 137,
+		"info": "累计招待4800个客人",
+		"reward_type": 1,
+		"reward_value": 7700,
+		"condition_key": 1,
+		"condition_value": 4800
+	},
+	{
+		"id": 138,
+		"info": "累计观看960个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 960
+	},
+	{
+		"id": 139,
+		"info": "累计招待4900个客人",
+		"reward_type": 1,
+		"reward_value": 7800,
+		"condition_key": 1,
+		"condition_value": 4900
+	},
+	{
+		"id": 140,
+		"info": "累计观看980个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 980
+	},
+	{
+		"id": 141,
+		"info": "累计招待5000个客人",
+		"reward_type": 1,
+		"reward_value": 7900,
+		"condition_key": 1,
+		"condition_value": 5000
+	},
+	{
+		"id": 142,
+		"info": "累计观看1000个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1000
+	},
+	{
+		"id": 143,
+		"info": "累计招待5100个客人",
+		"reward_type": 1,
+		"reward_value": 8000,
+		"condition_key": 1,
+		"condition_value": 5100
+	},
+	{
+		"id": 144,
+		"info": "累计观看1020个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1020
+	},
+	{
+		"id": 145,
+		"info": "累计招待5200个客人",
+		"reward_type": 1,
+		"reward_value": 8100,
+		"condition_key": 1,
+		"condition_value": 5200
+	},
+	{
+		"id": 146,
+		"info": "累计观看1040个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1040
+	},
+	{
+		"id": 147,
+		"info": "累计招待5300个客人",
+		"reward_type": 1,
+		"reward_value": 8200,
+		"condition_key": 1,
+		"condition_value": 5300
+	},
+	{
+		"id": 148,
+		"info": "累计观看1060个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1060
+	},
+	{
+		"id": 149,
+		"info": "累计招待5400个客人",
+		"reward_type": 1,
+		"reward_value": 8300,
+		"condition_key": 1,
+		"condition_value": 5400
+	},
+	{
+		"id": 150,
+		"info": "累计观看1080个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1080
+	},
+	{
+		"id": 151,
+		"info": "累计招待5500个客人",
+		"reward_type": 1,
+		"reward_value": 8400,
+		"condition_key": 1,
+		"condition_value": 5500
+	},
+	{
+		"id": 152,
+		"info": "累计观看1100个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1100
+	},
+	{
+		"id": 153,
+		"info": "累计招待5600个客人",
+		"reward_type": 1,
+		"reward_value": 8500,
+		"condition_key": 1,
+		"condition_value": 5600
+	},
+	{
+		"id": 154,
+		"info": "累计观看1120个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1120
+	},
+	{
+		"id": 155,
+		"info": "累计招待5700个客人",
+		"reward_type": 1,
+		"reward_value": 8600,
+		"condition_key": 1,
+		"condition_value": 5700
+	},
+	{
+		"id": 156,
+		"info": "累计观看1140个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1140
+	},
+	{
+		"id": 157,
+		"info": "累计招待5800个客人",
+		"reward_type": 1,
+		"reward_value": 8700,
+		"condition_key": 1,
+		"condition_value": 5800
+	},
+	{
+		"id": 158,
+		"info": "累计观看1160个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1160
+	},
+	{
+		"id": 159,
+		"info": "累计招待5900个客人",
+		"reward_type": 1,
+		"reward_value": 8800,
+		"condition_key": 1,
+		"condition_value": 5900
+	},
+	{
+		"id": 160,
+		"info": "累计观看1180个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1180
+	},
+	{
+		"id": 161,
+		"info": "累计招待6000个客人",
+		"reward_type": 1,
+		"reward_value": 8900,
+		"condition_key": 1,
+		"condition_value": 6000
+	},
+	{
+		"id": 162,
+		"info": "累计观看1200个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1200
+	},
+	{
+		"id": 163,
+		"info": "累计招待6100个客人",
+		"reward_type": 1,
+		"reward_value": 9000,
+		"condition_key": 1,
+		"condition_value": 6100
+	},
+	{
+		"id": 164,
+		"info": "累计观看1220个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1220
+	},
+	{
+		"id": 165,
+		"info": "累计招待6200个客人",
+		"reward_type": 1,
+		"reward_value": 9100,
+		"condition_key": 1,
+		"condition_value": 6200
+	},
+	{
+		"id": 166,
+		"info": "累计观看1240个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1240
+	},
+	{
+		"id": 167,
+		"info": "累计招待6300个客人",
+		"reward_type": 1,
+		"reward_value": 9200,
+		"condition_key": 1,
+		"condition_value": 6300
+	},
+	{
+		"id": 168,
+		"info": "累计观看1260个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1260
+	},
+	{
+		"id": 169,
+		"info": "累计招待6400个客人",
+		"reward_type": 1,
+		"reward_value": 9300,
+		"condition_key": 1,
+		"condition_value": 6400
+	},
+	{
+		"id": 170,
+		"info": "累计观看1280个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1280
+	},
+	{
+		"id": 171,
+		"info": "累计招待6500个客人",
+		"reward_type": 1,
+		"reward_value": 9400,
+		"condition_key": 1,
+		"condition_value": 6500
+	},
+	{
+		"id": 172,
+		"info": "累计观看1300个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1300
+	},
+	{
+		"id": 173,
+		"info": "累计招待6600个客人",
+		"reward_type": 1,
+		"reward_value": 9500,
+		"condition_key": 1,
+		"condition_value": 6600
+	},
+	{
+		"id": 174,
+		"info": "累计观看1320个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1320
+	},
+	{
+		"id": 175,
+		"info": "累计招待6700个客人",
+		"reward_type": 1,
+		"reward_value": 9600,
+		"condition_key": 1,
+		"condition_value": 6700
+	},
+	{
+		"id": 176,
+		"info": "累计观看1340个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1340
+	},
+	{
+		"id": 177,
+		"info": "累计招待6800个客人",
+		"reward_type": 1,
+		"reward_value": 9700,
+		"condition_key": 1,
+		"condition_value": 6800
+	},
+	{
+		"id": 178,
+		"info": "累计观看1360个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1360
+	},
+	{
+		"id": 179,
+		"info": "累计招待6900个客人",
+		"reward_type": 1,
+		"reward_value": 9800,
+		"condition_key": 1,
+		"condition_value": 6900
+	},
+	{
+		"id": 180,
+		"info": "累计观看1380个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1380
+	},
+	{
+		"id": 181,
+		"info": "累计招待7000个客人",
+		"reward_type": 1,
+		"reward_value": 9900,
+		"condition_key": 1,
+		"condition_value": 7000
+	},
+	{
+		"id": 182,
+		"info": "累计观看1400个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1400
+	},
+	{
+		"id": 183,
+		"info": "累计招待7100个客人",
+		"reward_type": 1,
+		"reward_value": 10000,
+		"condition_key": 1,
+		"condition_value": 7100
+	},
+	{
+		"id": 184,
+		"info": "累计观看1420个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1420
+	},
+	{
+		"id": 185,
+		"info": "累计招待7200个客人",
+		"reward_type": 1,
+		"reward_value": 10100,
+		"condition_key": 1,
+		"condition_value": 7200
+	},
+	{
+		"id": 186,
+		"info": "累计观看1440个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1440
+	},
+	{
+		"id": 187,
+		"info": "累计招待7300个客人",
+		"reward_type": 1,
+		"reward_value": 10200,
+		"condition_key": 1,
+		"condition_value": 7300
+	},
+	{
+		"id": 188,
+		"info": "累计观看1460个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1460
+	},
+	{
+		"id": 189,
+		"info": "累计招待7400个客人",
+		"reward_type": 1,
+		"reward_value": 10300,
+		"condition_key": 1,
+		"condition_value": 7400
+	},
+	{
+		"id": 190,
+		"info": "累计观看1480个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1480
+	},
+	{
+		"id": 191,
+		"info": "累计招待7500个客人",
+		"reward_type": 1,
+		"reward_value": 10400,
+		"condition_key": 1,
+		"condition_value": 7500
+	},
+	{
+		"id": 192,
+		"info": "累计观看1500个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1500
+	},
+	{
+		"id": 193,
+		"info": "累计招待7600个客人",
+		"reward_type": 1,
+		"reward_value": 10500,
+		"condition_key": 1,
+		"condition_value": 7600
+	},
+	{
+		"id": 194,
+		"info": "累计观看1520个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1520
+	},
+	{
+		"id": 195,
+		"info": "累计招待7700个客人",
+		"reward_type": 1,
+		"reward_value": 10600,
+		"condition_key": 1,
+		"condition_value": 7700
+	},
+	{
+		"id": 196,
+		"info": "累计观看1540个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1540
+	},
+	{
+		"id": 197,
+		"info": "累计招待7800个客人",
+		"reward_type": 1,
+		"reward_value": 10700,
+		"condition_key": 1,
+		"condition_value": 7800
+	},
+	{
+		"id": 198,
+		"info": "累计观看1560个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1560
+	},
+	{
+		"id": 199,
+		"info": "累计招待7900个客人",
+		"reward_type": 1,
+		"reward_value": 10800,
+		"condition_key": 1,
+		"condition_value": 7900
+	},
+	{
+		"id": 200,
+		"info": "累计观看1580个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1580
+	},
+	{
+		"id": 201,
+		"info": "累计招待8000个客人",
+		"reward_type": 1,
+		"reward_value": 10900,
+		"condition_key": 1,
+		"condition_value": 8000
+	},
+	{
+		"id": 202,
+		"info": "累计观看1600个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1600
+	},
+	{
+		"id": 203,
+		"info": "累计招待8100个客人",
+		"reward_type": 1,
+		"reward_value": 11000,
+		"condition_key": 1,
+		"condition_value": 8100
+	},
+	{
+		"id": 204,
+		"info": "累计观看1620个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1620
+	},
+	{
+		"id": 205,
+		"info": "累计招待8200个客人",
+		"reward_type": 1,
+		"reward_value": 11100,
+		"condition_key": 1,
+		"condition_value": 8200
+	},
+	{
+		"id": 206,
+		"info": "累计观看1640个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1640
+	},
+	{
+		"id": 207,
+		"info": "累计招待8300个客人",
+		"reward_type": 1,
+		"reward_value": 11200,
+		"condition_key": 1,
+		"condition_value": 8300
+	},
+	{
+		"id": 208,
+		"info": "累计观看1660个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1660
+	},
+	{
+		"id": 209,
+		"info": "累计招待8400个客人",
+		"reward_type": 1,
+		"reward_value": 11300,
+		"condition_key": 1,
+		"condition_value": 8400
+	},
+	{
+		"id": 210,
+		"info": "累计观看1680个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1680
+	},
+	{
+		"id": 211,
+		"info": "累计招待8500个客人",
+		"reward_type": 1,
+		"reward_value": 11400,
+		"condition_key": 1,
+		"condition_value": 8500
+	},
+	{
+		"id": 212,
+		"info": "累计观看1700个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1700
+	},
+	{
+		"id": 213,
+		"info": "累计招待8600个客人",
+		"reward_type": 1,
+		"reward_value": 11500,
+		"condition_key": 1,
+		"condition_value": 8600
+	},
+	{
+		"id": 214,
+		"info": "累计观看1720个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1720
+	},
+	{
+		"id": 215,
+		"info": "累计招待8700个客人",
+		"reward_type": 1,
+		"reward_value": 11600,
+		"condition_key": 1,
+		"condition_value": 8700
+	},
+	{
+		"id": 216,
+		"info": "累计观看1740个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1740
+	},
+	{
+		"id": 217,
+		"info": "累计招待8800个客人",
+		"reward_type": 1,
+		"reward_value": 11700,
+		"condition_key": 1,
+		"condition_value": 8800
+	},
+	{
+		"id": 218,
+		"info": "累计观看1760个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1760
+	},
+	{
+		"id": 219,
+		"info": "累计招待8900个客人",
+		"reward_type": 1,
+		"reward_value": 11800,
+		"condition_key": 1,
+		"condition_value": 8900
+	},
+	{
+		"id": 220,
+		"info": "累计观看1780个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1780
+	},
+	{
+		"id": 221,
+		"info": "累计招待9000个客人",
+		"reward_type": 1,
+		"reward_value": 11900,
+		"condition_key": 1,
+		"condition_value": 9000
+	},
+	{
+		"id": 222,
+		"info": "累计观看1800个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1800
+	},
+	{
+		"id": 223,
+		"info": "累计招待9100个客人",
+		"reward_type": 1,
+		"reward_value": 12000,
+		"condition_key": 1,
+		"condition_value": 9100
+	},
+	{
+		"id": 224,
+		"info": "累计观看1820个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1820
+	},
+	{
+		"id": 225,
+		"info": "累计招待9200个客人",
+		"reward_type": 1,
+		"reward_value": 12100,
+		"condition_key": 1,
+		"condition_value": 9200
+	},
+	{
+		"id": 226,
+		"info": "累计观看1840个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1840
+	},
+	{
+		"id": 227,
+		"info": "累计招待9300个客人",
+		"reward_type": 1,
+		"reward_value": 12200,
+		"condition_key": 1,
+		"condition_value": 9300
+	},
+	{
+		"id": 228,
+		"info": "累计观看1860个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1860
+	},
+	{
+		"id": 229,
+		"info": "累计招待9400个客人",
+		"reward_type": 1,
+		"reward_value": 12300,
+		"condition_key": 1,
+		"condition_value": 9400
+	},
+	{
+		"id": 230,
+		"info": "累计观看1880个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1880
+	},
+	{
+		"id": 231,
+		"info": "累计招待9500个客人",
+		"reward_type": 1,
+		"reward_value": 12400,
+		"condition_key": 1,
+		"condition_value": 9500
+	},
+	{
+		"id": 232,
+		"info": "累计观看1900个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1900
+	},
+	{
+		"id": 233,
+		"info": "累计招待9600个客人",
+		"reward_type": 1,
+		"reward_value": 12500,
+		"condition_key": 1,
+		"condition_value": 9600
+	},
+	{
+		"id": 234,
+		"info": "累计观看1920个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1920
+	},
+	{
+		"id": 235,
+		"info": "累计招待9700个客人",
+		"reward_type": 1,
+		"reward_value": 12600,
+		"condition_key": 1,
+		"condition_value": 9700
+	},
+	{
+		"id": 236,
+		"info": "累计观看1940个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1940
+	},
+	{
+		"id": 237,
+		"info": "累计招待9800个客人",
+		"reward_type": 1,
+		"reward_value": 12700,
+		"condition_key": 1,
+		"condition_value": 9800
+	},
+	{
+		"id": 238,
+		"info": "累计观看1960个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1960
+	},
+	{
+		"id": 239,
+		"info": "累计招待9900个客人",
+		"reward_type": 1,
+		"reward_value": 12800,
+		"condition_key": 1,
+		"condition_value": 9900
+	},
+	{
+		"id": 240,
+		"info": "累计观看1980个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 1980
+	},
+	{
+		"id": 241,
+		"info": "累计招待10000个客人",
+		"reward_type": 1,
+		"reward_value": 12900,
+		"condition_key": 1,
+		"condition_value": 10000
+	},
+	{
+		"id": 242,
+		"info": "累计观看2000个视频",
+		"reward_type": 1,
+		"reward_value": 20000,
+		"condition_key": 6,
+		"condition_value": 2000
+	}
+]

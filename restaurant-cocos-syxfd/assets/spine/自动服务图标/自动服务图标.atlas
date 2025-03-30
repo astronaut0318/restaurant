@@ -1,0 +1,41 @@
+
+自动服务图标.png
+size: 222,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 181, 51
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 181, 9
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 103, 4
+  size: 61, 31
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 103, 37
+  size: 63, 76
+  orig: 66, 77
+  offset: 2, 0
+  index: -1

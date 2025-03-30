@@ -1,0 +1,153 @@
+
+chihuojie.png
+size: 996,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangshe
+  rotate: false
+  xy: 254, 52
+  size: 196, 200
+  orig: 200, 209
+  offset: 0, 5
+  index: -1
+h1
+  rotate: true
+  xy: 792, 5
+  size: 32, 26
+  orig: 35, 29
+  offset: 2, 1
+  index: -1
+h3
+  rotate: true
+  xy: 747, 19
+  size: 62, 43
+  orig: 64, 45
+  offset: 1, 0
+  index: -1
+h4
+  rotate: true
+  xy: 613, 16
+  size: 22, 68
+  orig: 23, 70
+  offset: 1, 1
+  index: -1
+huang1
+  rotate: false
+  xy: 820, 7
+  size: 26, 30
+  orig: 28, 32
+  offset: 1, 1
+  index: -1
+huang2
+  rotate: true
+  xy: 683, 6
+  size: 48, 62
+  orig: 50, 63
+  offset: 2, 0
+  index: -1
+lan1
+  rotate: true
+  xy: 649, 56
+  size: 25, 48
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+lan2
+  rotate: true
+  xy: 452, 52
+  size: 21, 68
+  orig: 23, 71
+  offset: 1, 2
+  index: -1
+lan3
+  rotate: false
+  xy: 556, 3
+  size: 55, 35
+  orig: 57, 38
+  offset: 1, 2
+  index: -1
+qiqi
+  rotate: false
+  xy: 254, 3
+  size: 300, 47
+  orig: 300, 47
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: true
+  xy: 556, 40
+  size: 33, 91
+  orig: 37, 91
+  offset: 2, 0
+  index: -1
+zi4
+  rotate: false
+  xy: 522, 52
+  size: 23, 21
+  orig: 27, 23
+  offset: 1, 1
+  index: -1
+吃
+  rotate: true
+  xy: 452, 75
+  size: 177, 174
+  orig: 177, 174
+  offset: 0, 0
+  index: -1
+紫
+  rotate: false
+  xy: 792, 39
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+红
+  rotate: false
+  xy: 836, 50
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+绿
+  rotate: false
+  xy: 848, 6
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+节
+  rotate: true
+  xy: 628, 83
+  size: 169, 180
+  orig: 169, 180
+  offset: 0, 0
+  index: -1
+蓝
+  rotate: false
+  xy: 880, 50
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+货
+  rotate: true
+  xy: 810, 94
+  size: 158, 184
+  orig: 159, 184
+  offset: 1, 0
+  index: -1
+黄
+  rotate: false
+  xy: 892, 6
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1

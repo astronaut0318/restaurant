@@ -1,0 +1,362 @@
+[
+	{
+		"id": 1,
+		"chinese_name": "鸡蛋面",
+		"chinese_desp": "中国的传统面食小吃之一，属于家常菜，营养丰富，物美价廉",
+		"eat_time": 10
+	},
+	{
+		"id": 2,
+		"chinese_name": "蜂蜜苦瓜",
+		"chinese_desp": "具有养血益气、补肾健脾、预防坏血病、保护细胞膜功效",
+		"eat_time": 10
+	},
+	{
+		"id": 3,
+		"chinese_name": "羊肉烩面",
+		"chinese_desp": "此面面筋光滑，汤鲜味美，具有丰富的营养价值",
+		"eat_time": 10
+	},
+	{
+		"id": 4,
+		"chinese_name": "宽油爱心蛋",
+		"chinese_desp": "浪漫无比颜值燃爆，七夕必备",
+		"eat_time": 10
+	},
+	{
+		"id": 5,
+		"chinese_name": "芒果牛奶",
+		"chinese_desp": "拥有牛奶的香醇和芒果的营养，体会回味无穷的美味",
+		"eat_time": 10
+	},
+	{
+		"id": 6,
+		"chinese_name": "万三蹄",
+		"chinese_desp": "该菜品起源于明代沈万三家，是用来招待贵宾的必备菜肴",
+		"eat_time": 10
+	},
+	{
+		"id": 7,
+		"chinese_name": "包公鱼",
+		"chinese_desp": "原名红酥包河鲫鱼，是安徽省合肥市的一道特色传统名菜，属冷菜类",
+		"eat_time": 10
+	},
+	{
+		"id": 8,
+		"chinese_name": "麻婆豆腐",
+		"chinese_desp": "“麻婆豆腐“被评为“中国菜”四川十大经典名菜",
+		"eat_time": 10
+	},
+	{
+		"id": 9,
+		"chinese_name": "槟榔芋泥",
+		"chinese_desp": "槟榔芋泥槟榔芋泥是泉州较为有名的一个特色芋类小吃",
+		"eat_time": 10
+	},
+	{
+		"id": 10,
+		"chinese_name": "西湖莼菜汤",
+		"chinese_desp": "西湖莼菜汤又称鸡火莼菜汤，是浙江省杭州市的一道特色名菜",
+		"eat_time": 10
+	},
+	{
+		"id": 11,
+		"chinese_name": "水煮肉片",
+		"chinese_desp": "起源于自贡，发扬于西南，属于川菜中著名的家常菜",
+		"eat_time": 10
+	},
+	{
+		"id": 12,
+		"chinese_name": "酸汤肥牛",
+		"chinese_desp": "肥牛是一种高密度食品，美味而且营养丰富",
+		"eat_time": 10
+	},
+	{
+		"id": 13,
+		"chinese_name": "香辣炒田螺",
+		"chinese_desp": "是由田螺为主要食材做成的一道菜品，是江西萍乡传统的名菜",
+		"eat_time": 10
+	},
+	{
+		"id": 14,
+		"chinese_name": "蒜蓉烤扇贝",
+		"chinese_desp": "其实里边最好吃的是打底的粉丝",
+		"eat_time": 10
+	},
+	{
+		"id": 15,
+		"chinese_name": "烤蔬菜拼盘",
+		"chinese_desp": "想吃烧烤但怕长胖，选它选它",
+		"eat_time": 10
+	},
+	{
+		"id": 16,
+		"chinese_name": "羊肉卷",
+		"chinese_desp": "火锅必备，灵魂所在，单点会有点奇怪",
+		"eat_time": 10
+	},
+	{
+		"id": 17,
+		"chinese_name": "腊肠滑鸡饭",
+		"chinese_desp": "腊肠咸香带点甜味，锅底的锅巴很好吃",
+		"eat_time": 10
+	},
+	{
+		"id": 18,
+		"chinese_name": "太湖银鱼羹",
+		"chinese_desp": "银鱼羹也是湖州太湖边人家饭桌上的家常菜。主要由银鱼制作而成",
+		"eat_time": 15
+	},
+	{
+		"id": 19,
+		"chinese_name": "梅菜扣肉",
+		"chinese_desp": "梅菜扣肉与盐焗鸡、酿豆腐，被称为客家三件宝",
+		"eat_time": 10
+	},
+	{
+		"id": 20,
+		"chinese_name": "叫花鸡",
+		"chinese_desp": "在食此菜时，打开泥壳，满屋飘香，入口酥烂肥嫩，风味独特",
+		"eat_time": 10
+	},
+	{
+		"id": 21,
+		"chinese_name": "糖醋排骨",
+		"chinese_desp": "它选用新鲜猪子排作主料，肉质鲜嫩，成菜色泽红亮油润",
+		"eat_time": 10
+	},
+	{
+		"id": 22,
+		"chinese_name": "炭烤生蚝",
+		"chinese_desp": "新鲜的生蚝，佐以黄油、大蒜水、辣椒等，炭烤食用",
+		"eat_time": 10
+	},
+	{
+		"id": 23,
+		"chinese_name": "啤酒牛肉",
+		"chinese_desp": "类别：家常菜冬季养生食谱 肢寒畏冷食谱 贫血食谱 壮腰健肾食谱",
+		"eat_time": 15
+	},
+	{
+		"id": 24,
+		"chinese_name": "鱿鱼饭",
+		"chinese_desp": "米饭填在鱿鱼中，一口一个香喷喷",
+		"eat_time": 10
+	},
+	{
+		"id": 25,
+		"chinese_name": "炒花甲",
+		"chinese_desp": "制作原料有花甲、油、盐等，烹饪简单、营养丰富",
+		"eat_time": 10
+	},
+	{
+		"id": 26,
+		"chinese_name": "关东煮",
+		"chinese_desp": "每个学校商店都有的小吃，下课后一定要来一份",
+		"eat_time": 10
+	},
+	{
+		"id": 27,
+		"chinese_name": "石狩锅",
+		"chinese_desp": "是北海道具有代表性的地方风味，因盛产鲑鱼的石狩川而得名",
+		"eat_time": 10
+	},
+	{
+		"id": 28,
+		"chinese_name": "抹茶饼",
+		"chinese_desp": "是一款小吃菜品，制作原料主要有糯米粉、太白粉等",
+		"eat_time": 10
+	},
+	{
+		"id": 29,
+		"chinese_name": "海胆肉",
+		"chinese_desp": "鸡蛋加海胆，蒸制而成",
+		"eat_time": 15
+	},
+	{
+		"id": 30,
+		"chinese_name": "海虾白肉",
+		"chinese_desp": "取虾肉做成虾球，焖制而成，味道鲜美",
+		"eat_time": 10
+	},
+	{
+		"id": 31,
+		"chinese_name": "蟹肉煲",
+		"chinese_desp": "大闸蟹加鸡爪再加一些配菜一起煮 ，味道非常的棒",
+		"eat_time": 10
+	},
+	{
+		"id": 32,
+		"chinese_name": "罗火腿",
+		"chinese_desp": "火腿内含丰富的蛋白质和适度的脂肪，多种维生素和矿物质",
+		"eat_time": 10
+	},
+	{
+		"id": 33,
+		"chinese_name": "汉宫藏娇",
+		"chinese_desp": "主料是新鲜的活泥鳅等，配料是白豆腐，通过煮、煸炒制而成",
+		"eat_time": 10
+	},
+	{
+		"id": 34,
+		"chinese_name": "孔府一品锅",
+		"chinese_desp": "用料珍贵，造型美观，色彩鲜艳，汤汁鲜美，白菜清口",
+		"eat_time": 10
+	},
+	{
+		"id": 35,
+		"chinese_name": "涮羊肉",
+		"chinese_desp": "又称“羊肉火锅”，古代常用铜质火锅",
+		"eat_time": 10
+	},
+	{
+		"id": 36,
+		"chinese_name": "手切羊肉",
+		"chinese_desp": "腌制的羊头麻辣鲜香，回味无穷",
+		"eat_time": 10
+	},
+	{
+		"id": 37,
+		"chinese_name": "菠萝油",
+		"chinese_desp": "是将菠萝包横向切开夹著一块厚切的牛油（或奶油）所组成",
+		"eat_time": 10
+	},
+	{
+		"id": 38,
+		"chinese_name": "盐焗虾",
+		"chinese_desp": "是潮汕经典菜肴，本菜是以草虾为主料，加入多种调品料制成",
+		"eat_time": 10
+	},
+	{
+		"id": 39,
+		"chinese_name": "佛跳墙",
+		"chinese_desp": "又名福寿全，是福建省福州市的一道特色名菜，属闽菜系",
+		"eat_time": 10
+	},
+	{
+		"id": 40,
+		"chinese_name": "东坡肉",
+		"chinese_desp": "又名滚肉、红烧肉，东坡焖肉，是眉山和江南地区特色传统名菜",
+		"eat_time": 10
+	},
+	{
+		"id": 41,
+		"chinese_name": "贵妃鸡",
+		"chinese_desp": "色泽红亮，鸡肉酥嫩，麻辣香鲜，味美可口",
+		"eat_time": 10
+	},
+	{
+		"id": 42,
+		"chinese_name": "鲤鱼跳龙门",
+		"chinese_desp": "本菜工艺性强，形象逼真，汤鲜肉嫩，味道醇正",
+		"eat_time": 10
+	},
+	{
+		"id": 43,
+		"chinese_name": "红烧狮子头",
+		"chinese_desp": "将有肥有瘦的肉配上荸荠，香菇等材料，做成丸子，然后先炸后煮",
+		"eat_time": 10
+	},
+	{
+		"id": 44,
+		"chinese_name": "霸王别姬",
+		"chinese_desp": "江苏徐州和安徽萧县的一道传统名菜，鸡、鳖肉质鲜嫩，汤浓味醇",
+		"eat_time": 10
+	},
+	{
+		"id": 45,
+		"chinese_name": "清炖马蹄鳖",
+		"chinese_desp": "又名沙地马蹄鳖、火腿炖甲鱼，是安徽省徽州地区传统名菜",
+		"eat_time": 10
+	},
+	{
+		"id": 46,
+		"chinese_name": "烤乳猪",
+		"chinese_desp": "是广州最著名的特色菜，并且是“满汉全席”中的主打菜肴之一",
+		"eat_time": 10
+	},
+	{
+		"id": 47,
+		"chinese_name": "避风塘龙虾",
+		"chinese_desp": "主料包括红辣椒、鸡蛋清、盐、胡椒粉、料酒、生粉",
+		"eat_time": 10
+	},
+	{
+		"id": 48,
+		"chinese_name": "避风塘蟹",
+		"chinese_desp": "香港十大经典名菜之一，是一道美味可口的传统名点，属于粤菜系",
+		"eat_time": 10
+	},
+	{
+		"id": 49,
+		"chinese_name": "麻辣小龙虾",
+		"chinese_desp": "又名口味虾、长沙口味虾、香辣小龙虾，是湖南著名的地方小吃",
+		"eat_time": 10
+	},
+	{
+		"id": 50,
+		"chinese_name": "红柳大串",
+		"chinese_desp": "将肥肉烤的香酥，瘦肉劲道弹牙，肥瘦相宜，肉嫩汁多",
+		"eat_time": 10
+	},
+	{
+		"id": 51,
+		"chinese_name": "椒盐皮皮虾",
+		"chinese_desp": "味道独特，口感爽口，外表干燥酥脆，白里透红，营养十分的丰富",
+		"eat_time": 10
+	},
+	{
+		"id": 52,
+		"chinese_name": "水果拼盘",
+		"chinese_desp": "产自三亚的优质水果",
+		"eat_time": 10
+	},
+	{
+		"id": 53,
+		"chinese_name": "浆果慕斯",
+		"chinese_desp": "车厘子榨汁制作而成，成本较高",
+		"eat_time": 10
+	},
+	{
+		"id": 54,
+		"chinese_name": "圣女果炖牛腩",
+		"chinese_desp": "使用进口圣女果加和牛牛腩煲制10小时",
+		"eat_time": 10
+	},
+	{
+		"id": 55,
+		"chinese_name": "法式大餐",
+		"chinese_desp": "采用上等蜗牛熬汤，配优质水果",
+		"eat_time": 10
+	},
+	{
+		"id": 56,
+		"chinese_name": "和牛奶酪肋眼牛排",
+		"chinese_desp": "用牛肋眼切配鹅肝及洒上松露、奶酪、焦糖洋葱制作而成",
+		"eat_time": 10
+	},
+	{
+		"id": 57,
+		"chinese_name": "抗浪鱼饼",
+		"chinese_desp": "野生抗浪鱼几乎绝迹",
+		"eat_time": 10
+	},
+	{
+		"id": 58,
+		"chinese_name": "黑松露芝士蘑菇通心粉",
+		"chinese_desp": "使用了世界上最贵的食材",
+		"eat_time": 10
+	},
+	{
+		"id": 59,
+		"chinese_name": "什锦肉丸",
+		"chinese_desp": "选用猪、牛、养、鸡最嫩的肉制作而成，限量发售",
+		"eat_time": 10
+	},
+	{
+		"id": 60,
+		"chinese_name": "天妇罗",
+		"chinese_desp": "挂糊薄，沥油净，又脆又香",
+		"eat_time": 10
+	}
+]

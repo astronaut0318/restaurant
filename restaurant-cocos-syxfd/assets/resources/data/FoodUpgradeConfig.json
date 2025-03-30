@@ -1,0 +1,1083 @@
+[
+	{
+		"id": 1,
+		"food_id": 1,
+		"level": 1,
+		"cook_time": 3,
+		"need_money": 0,
+		"add_red_bag": 500,
+		"sell_price": 20,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 2,
+		"food_id": 1,
+		"level": 2,
+		"cook_time": 4,
+		"need_money": 100,
+		"add_red_bag": 800,
+		"sell_price": 24,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 3,
+		"food_id": 2,
+		"level": 1,
+		"cook_time": 4,
+		"need_money": 100,
+		"add_red_bag": 1100,
+		"sell_price": 28,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 4,
+		"food_id": 2,
+		"level": 2,
+		"cook_time": 5,
+		"need_money": 120,
+		"add_red_bag": 1400,
+		"sell_price": 34,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 5,
+		"food_id": 3,
+		"level": 1,
+		"cook_time": 5,
+		"need_money": 160,
+		"add_red_bag": 1700,
+		"sell_price": 38,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 6,
+		"food_id": 3,
+		"level": 2,
+		"cook_time": 6,
+		"need_money": 200,
+		"add_red_bag": 2000,
+		"sell_price": 46,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 7,
+		"food_id": 4,
+		"level": 1,
+		"cook_time": 6,
+		"need_money": 200,
+		"add_red_bag": 2300,
+		"sell_price": 50,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 8,
+		"food_id": 4,
+		"level": 2,
+		"cook_time": 8,
+		"need_money": 240,
+		"add_red_bag": 2600,
+		"sell_price": 62,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 9,
+		"food_id": 5,
+		"level": 1,
+		"cook_time": 7,
+		"need_money": 240,
+		"add_red_bag": 2900,
+		"sell_price": 64,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 10,
+		"food_id": 5,
+		"level": 2,
+		"cook_time": 9,
+		"need_money": 290,
+		"add_red_bag": 3200,
+		"sell_price": 80,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 11,
+		"food_id": 6,
+		"level": 1,
+		"cook_time": 8,
+		"need_money": 310,
+		"add_red_bag": 3500,
+		"sell_price": 80,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 12,
+		"food_id": 6,
+		"level": 2,
+		"cook_time": 10,
+		"need_money": 380,
+		"add_red_bag": 3800,
+		"sell_price": 100,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 13,
+		"food_id": 7,
+		"level": 1,
+		"cook_time": 9,
+		"need_money": 390,
+		"add_red_bag": 4100,
+		"sell_price": 98,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 14,
+		"food_id": 7,
+		"level": 2,
+		"cook_time": 11,
+		"need_money": 470,
+		"add_red_bag": 4400,
+		"sell_price": 122,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 15,
+		"food_id": 8,
+		"level": 1,
+		"cook_time": 10,
+		"need_money": 490,
+		"add_red_bag": 4700,
+		"sell_price": 118,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 16,
+		"food_id": 8,
+		"level": 2,
+		"cook_time": 12,
+		"need_money": 590,
+		"add_red_bag": 5000,
+		"sell_price": 146,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 17,
+		"food_id": 9,
+		"level": 1,
+		"cook_time": 11,
+		"need_money": 610,
+		"add_red_bag": 5300,
+		"sell_price": 140,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 18,
+		"food_id": 9,
+		"level": 2,
+		"cook_time": 14,
+		"need_money": 740,
+		"add_red_bag": 5600,
+		"sell_price": 174,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 19,
+		"food_id": 10,
+		"level": 1,
+		"cook_time": 12,
+		"need_money": 750,
+		"add_red_bag": 5900,
+		"sell_price": 164,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 20,
+		"food_id": 10,
+		"level": 2,
+		"cook_time": 15,
+		"need_money": 900,
+		"add_red_bag": 6200,
+		"sell_price": 204,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 21,
+		"food_id": 11,
+		"level": 1,
+		"cook_time": 13,
+		"need_money": 920,
+		"add_red_bag": 6500,
+		"sell_price": 190,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 22,
+		"food_id": 11,
+		"level": 2,
+		"cook_time": 16,
+		"need_money": 1110,
+		"add_red_bag": 6800,
+		"sell_price": 236,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 23,
+		"food_id": 12,
+		"level": 1,
+		"cook_time": 14,
+		"need_money": 1110,
+		"add_red_bag": 7100,
+		"sell_price": 218,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 24,
+		"food_id": 12,
+		"level": 2,
+		"cook_time": 17,
+		"need_money": 1340,
+		"add_red_bag": 7400,
+		"sell_price": 270,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 25,
+		"food_id": 13,
+		"level": 1,
+		"cook_time": 15,
+		"need_money": 1340,
+		"add_red_bag": 7700,
+		"sell_price": 248,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 26,
+		"food_id": 13,
+		"level": 2,
+		"cook_time": 18,
+		"need_money": 1610,
+		"add_red_bag": 8000,
+		"sell_price": 306,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 27,
+		"food_id": 14,
+		"level": 1,
+		"cook_time": 16,
+		"need_money": 1590,
+		"add_red_bag": 8300,
+		"sell_price": 280,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 28,
+		"food_id": 14,
+		"level": 2,
+		"cook_time": 20,
+		"need_money": 1910,
+		"add_red_bag": 8600,
+		"sell_price": 346,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 29,
+		"food_id": 15,
+		"level": 1,
+		"cook_time": 17,
+		"need_money": 1870,
+		"add_red_bag": 8900,
+		"sell_price": 314,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 30,
+		"food_id": 15,
+		"level": 2,
+		"cook_time": 21,
+		"need_money": 2250,
+		"add_red_bag": 9200,
+		"sell_price": 388,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 31,
+		"food_id": 16,
+		"level": 1,
+		"cook_time": 18,
+		"need_money": 2200,
+		"add_red_bag": 9500,
+		"sell_price": 350,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 32,
+		"food_id": 16,
+		"level": 2,
+		"cook_time": 22,
+		"need_money": 2640,
+		"add_red_bag": 9800,
+		"sell_price": 432,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 33,
+		"food_id": 17,
+		"level": 1,
+		"cook_time": 19,
+		"need_money": 2550,
+		"add_red_bag": 10100,
+		"sell_price": 388,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 34,
+		"food_id": 17,
+		"level": 2,
+		"cook_time": 23,
+		"need_money": 3060,
+		"add_red_bag": 10200,
+		"sell_price": 478,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 35,
+		"food_id": 18,
+		"level": 1,
+		"cook_time": 20,
+		"need_money": 2950,
+		"add_red_bag": 10300,
+		"sell_price": 428,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 36,
+		"food_id": 18,
+		"level": 2,
+		"cook_time": 24,
+		"need_money": 3540,
+		"add_red_bag": 10400,
+		"sell_price": 526,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 37,
+		"food_id": 19,
+		"level": 1,
+		"cook_time": 21,
+		"need_money": 3390,
+		"add_red_bag": 10500,
+		"sell_price": 470,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 38,
+		"food_id": 19,
+		"level": 2,
+		"cook_time": 26,
+		"need_money": 4070,
+		"add_red_bag": 10600,
+		"sell_price": 578,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 39,
+		"food_id": 20,
+		"level": 1,
+		"cook_time": 22,
+		"need_money": 3860,
+		"add_red_bag": 10700,
+		"sell_price": 514,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 40,
+		"food_id": 20,
+		"level": 2,
+		"cook_time": 27,
+		"need_money": 4640,
+		"add_red_bag": 10800,
+		"sell_price": 632,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 41,
+		"food_id": 21,
+		"level": 1,
+		"cook_time": 23,
+		"need_money": 4390,
+		"add_red_bag": 10900,
+		"sell_price": 560,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 42,
+		"food_id": 21,
+		"level": 2,
+		"cook_time": 28,
+		"need_money": 5270,
+		"add_red_bag": 11000,
+		"sell_price": 688,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 43,
+		"food_id": 22,
+		"level": 1,
+		"cook_time": 24,
+		"need_money": 4960,
+		"add_red_bag": 11100,
+		"sell_price": 608,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 44,
+		"food_id": 22,
+		"level": 2,
+		"cook_time": 29,
+		"need_money": 5960,
+		"add_red_bag": 11200,
+		"sell_price": 746,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 45,
+		"food_id": 23,
+		"level": 1,
+		"cook_time": 25,
+		"need_money": 5580,
+		"add_red_bag": 11300,
+		"sell_price": 658,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 46,
+		"food_id": 23,
+		"level": 2,
+		"cook_time": 30,
+		"need_money": 6700,
+		"add_red_bag": 11400,
+		"sell_price": 806,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 47,
+		"food_id": 24,
+		"level": 1,
+		"cook_time": 26,
+		"need_money": 6250,
+		"add_red_bag": 11500,
+		"sell_price": 710,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 48,
+		"food_id": 24,
+		"level": 2,
+		"cook_time": 32,
+		"need_money": 7500,
+		"add_red_bag": 11600,
+		"sell_price": 870,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 49,
+		"food_id": 25,
+		"level": 1,
+		"cook_time": 27,
+		"need_money": 6970,
+		"add_red_bag": 11700,
+		"sell_price": 764,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 50,
+		"food_id": 25,
+		"level": 2,
+		"cook_time": 33,
+		"need_money": 8370,
+		"add_red_bag": 11800,
+		"sell_price": 936,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 51,
+		"food_id": 26,
+		"level": 1,
+		"cook_time": 28,
+		"need_money": 7750,
+		"add_red_bag": 11900,
+		"sell_price": 820,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 52,
+		"food_id": 26,
+		"level": 2,
+		"cook_time": 34,
+		"need_money": 9300,
+		"add_red_bag": 12000,
+		"sell_price": 1004,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 53,
+		"food_id": 27,
+		"level": 1,
+		"cook_time": 29,
+		"need_money": 8580,
+		"add_red_bag": 12100,
+		"sell_price": 878,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 54,
+		"food_id": 27,
+		"level": 2,
+		"cook_time": 35,
+		"need_money": 10300,
+		"add_red_bag": 12200,
+		"sell_price": 1074,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 55,
+		"food_id": 28,
+		"level": 1,
+		"cook_time": 30,
+		"need_money": 9480,
+		"add_red_bag": 12300,
+		"sell_price": 938,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 56,
+		"food_id": 28,
+		"level": 2,
+		"cook_time": 36,
+		"need_money": 11380,
+		"add_red_bag": 12400,
+		"sell_price": 1146,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 57,
+		"food_id": 29,
+		"level": 1,
+		"cook_time": 31,
+		"need_money": 10430,
+		"add_red_bag": 12500,
+		"sell_price": 1000,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 58,
+		"food_id": 29,
+		"level": 2,
+		"cook_time": 38,
+		"need_money": 12520,
+		"add_red_bag": 12600,
+		"sell_price": 1222,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 59,
+		"food_id": 30,
+		"level": 1,
+		"cook_time": 32,
+		"need_money": 11440,
+		"add_red_bag": 12700,
+		"sell_price": 1064,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 60,
+		"food_id": 30,
+		"level": 2,
+		"cook_time": 39,
+		"need_money": 13730,
+		"add_red_bag": 12800,
+		"sell_price": 1300,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 61,
+		"food_id": 31,
+		"level": 1,
+		"cook_time": 33,
+		"need_money": 12530,
+		"add_red_bag": 12900,
+		"sell_price": 1130,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 62,
+		"food_id": 31,
+		"level": 2,
+		"cook_time": 40,
+		"need_money": 15040,
+		"add_red_bag": 13000,
+		"sell_price": 1380,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 63,
+		"food_id": 32,
+		"level": 1,
+		"cook_time": 34,
+		"need_money": 13670,
+		"add_red_bag": 13100,
+		"sell_price": 1198,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 64,
+		"food_id": 32,
+		"level": 2,
+		"cook_time": 41,
+		"need_money": 16410,
+		"add_red_bag": 13200,
+		"sell_price": 1462,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 65,
+		"food_id": 33,
+		"level": 1,
+		"cook_time": 35,
+		"need_money": 14890,
+		"add_red_bag": 13300,
+		"sell_price": 1268,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 66,
+		"food_id": 33,
+		"level": 2,
+		"cook_time": 42,
+		"need_money": 17870,
+		"add_red_bag": 13400,
+		"sell_price": 1546,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 67,
+		"food_id": 34,
+		"level": 1,
+		"cook_time": 36,
+		"need_money": 16180,
+		"add_red_bag": 13500,
+		"sell_price": 1340,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 68,
+		"food_id": 34,
+		"level": 2,
+		"cook_time": 44,
+		"need_money": 19420,
+		"add_red_bag": 13600,
+		"sell_price": 1634,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 69,
+		"food_id": 35,
+		"level": 1,
+		"cook_time": 37,
+		"need_money": 17530,
+		"add_red_bag": 13700,
+		"sell_price": 1414,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 70,
+		"food_id": 35,
+		"level": 2,
+		"cook_time": 45,
+		"need_money": 21040,
+		"add_red_bag": 13800,
+		"sell_price": 1724,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 71,
+		"food_id": 36,
+		"level": 1,
+		"cook_time": 38,
+		"need_money": 18970,
+		"add_red_bag": 13900,
+		"sell_price": 1490,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 72,
+		"food_id": 36,
+		"level": 2,
+		"cook_time": 46,
+		"need_money": 22770,
+		"add_red_bag": 14000,
+		"sell_price": 1816,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 73,
+		"food_id": 37,
+		"level": 1,
+		"cook_time": 39,
+		"need_money": 20480,
+		"add_red_bag": 14100,
+		"sell_price": 1568,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 74,
+		"food_id": 37,
+		"level": 2,
+		"cook_time": 47,
+		"need_money": 24580,
+		"add_red_bag": 14200,
+		"sell_price": 1910,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 75,
+		"food_id": 38,
+		"level": 1,
+		"cook_time": 40,
+		"need_money": 22070,
+		"add_red_bag": 14300,
+		"sell_price": 1648,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 76,
+		"food_id": 38,
+		"level": 2,
+		"cook_time": 48,
+		"need_money": 26490,
+		"add_red_bag": 14400,
+		"sell_price": 2006,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 77,
+		"food_id": 39,
+		"level": 1,
+		"cook_time": 41,
+		"need_money": 23740,
+		"add_red_bag": 14500,
+		"sell_price": 1730,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 78,
+		"food_id": 39,
+		"level": 2,
+		"cook_time": 50,
+		"need_money": 28490,
+		"add_red_bag": 14600,
+		"sell_price": 2106,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 79,
+		"food_id": 40,
+		"level": 1,
+		"cook_time": 42,
+		"need_money": 25490,
+		"add_red_bag": 14700,
+		"sell_price": 1814,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 80,
+		"food_id": 40,
+		"level": 2,
+		"cook_time": 51,
+		"need_money": 30590,
+		"add_red_bag": 14800,
+		"sell_price": 2208,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 81,
+		"food_id": 41,
+		"level": 1,
+		"cook_time": 43,
+		"need_money": 27330,
+		"add_red_bag": 14900,
+		"sell_price": 1900,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 82,
+		"food_id": 41,
+		"level": 2,
+		"cook_time": 52,
+		"need_money": 32800,
+		"add_red_bag": 15000,
+		"sell_price": 2312,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 83,
+		"food_id": 42,
+		"level": 1,
+		"cook_time": 44,
+		"need_money": 29250,
+		"add_red_bag": 15100,
+		"sell_price": 1988,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 84,
+		"food_id": 42,
+		"level": 2,
+		"cook_time": 53,
+		"need_money": 35100,
+		"add_red_bag": 15200,
+		"sell_price": 2418,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 85,
+		"food_id": 43,
+		"level": 1,
+		"cook_time": 45,
+		"need_money": 31270,
+		"add_red_bag": 15300,
+		"sell_price": 2078,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 86,
+		"food_id": 43,
+		"level": 2,
+		"cook_time": 54,
+		"need_money": 37530,
+		"add_red_bag": 15400,
+		"sell_price": 2526,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 87,
+		"food_id": 44,
+		"level": 1,
+		"cook_time": 46,
+		"need_money": 33370,
+		"add_red_bag": 15500,
+		"sell_price": 2170,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 88,
+		"food_id": 44,
+		"level": 2,
+		"cook_time": 56,
+		"need_money": 40050,
+		"add_red_bag": 15600,
+		"sell_price": 2638,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 89,
+		"food_id": 45,
+		"level": 1,
+		"cook_time": 47,
+		"need_money": 35560,
+		"add_red_bag": 15700,
+		"sell_price": 2264,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 90,
+		"food_id": 45,
+		"level": 2,
+		"cook_time": 57,
+		"need_money": 42680,
+		"add_red_bag": 15800,
+		"sell_price": 2752,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 91,
+		"food_id": 46,
+		"level": 1,
+		"cook_time": 48,
+		"need_money": 37860,
+		"add_red_bag": 15900,
+		"sell_price": 2360,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 92,
+		"food_id": 46,
+		"level": 2,
+		"cook_time": 58,
+		"need_money": 45440,
+		"add_red_bag": 16000,
+		"sell_price": 2868,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 93,
+		"food_id": 47,
+		"level": 1,
+		"cook_time": 49,
+		"need_money": 40240,
+		"add_red_bag": 16100,
+		"sell_price": 2458,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 94,
+		"food_id": 47,
+		"level": 2,
+		"cook_time": 59,
+		"need_money": 48290,
+		"add_red_bag": 16200,
+		"sell_price": 2986,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 95,
+		"food_id": 48,
+		"level": 1,
+		"cook_time": 50,
+		"need_money": 42730,
+		"add_red_bag": 16300,
+		"sell_price": 2558,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 96,
+		"food_id": 48,
+		"level": 2,
+		"cook_time": 60,
+		"need_money": 51280,
+		"add_red_bag": 16400,
+		"sell_price": 3106,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 97,
+		"food_id": 49,
+		"level": 1,
+		"cook_time": 51,
+		"need_money": 45320,
+		"add_red_bag": 16500,
+		"sell_price": 2660,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 98,
+		"food_id": 49,
+		"level": 2,
+		"cook_time": 62,
+		"need_money": 54390,
+		"add_red_bag": 16600,
+		"sell_price": 3230,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 99,
+		"food_id": 50,
+		"level": 1,
+		"cook_time": 52,
+		"need_money": 48000,
+		"add_red_bag": 16700,
+		"sell_price": 2764,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 100,
+		"food_id": 50,
+		"level": 2,
+		"cook_time": 63,
+		"need_money": 57600,
+		"add_red_bag": 16800,
+		"sell_price": 3356,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 101,
+		"food_id": 51,
+		"level": 1,
+		"cook_time": 53,
+		"need_money": 50800,
+		"add_red_bag": 16900,
+		"sell_price": 2870,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 102,
+		"food_id": 51,
+		"level": 2,
+		"cook_time": 64,
+		"need_money": 60960,
+		"add_red_bag": 17000,
+		"sell_price": 3484,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 103,
+		"food_id": 52,
+		"level": 1,
+		"cook_time": 54,
+		"need_money": 53700,
+		"add_red_bag": 17100,
+		"sell_price": 2978,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 104,
+		"food_id": 52,
+		"level": 2,
+		"cook_time": 65,
+		"need_money": 64440,
+		"add_red_bag": 17200,
+		"sell_price": 3614,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 105,
+		"food_id": 53,
+		"level": 1,
+		"cook_time": 55,
+		"need_money": 56710,
+		"add_red_bag": 17300,
+		"sell_price": 3088,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 106,
+		"food_id": 53,
+		"level": 2,
+		"cook_time": 66,
+		"need_money": 68060,
+		"add_red_bag": 17400,
+		"sell_price": 3746,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 107,
+		"food_id": 54,
+		"level": 1,
+		"cook_time": 56,
+		"need_money": 59830,
+		"add_red_bag": 17500,
+		"sell_price": 3200,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 108,
+		"food_id": 54,
+		"level": 2,
+		"cook_time": 68,
+		"need_money": 71800,
+		"add_red_bag": 17600,
+		"sell_price": 3882,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 109,
+		"food_id": 55,
+		"level": 1,
+		"cook_time": 57,
+		"need_money": 63060,
+		"add_red_bag": 17700,
+		"sell_price": 3314,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 110,
+		"food_id": 55,
+		"level": 2,
+		"cook_time": 69,
+		"need_money": 75680,
+		"add_red_bag": 17800,
+		"sell_price": 4020,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 111,
+		"food_id": 56,
+		"level": 1,
+		"cook_time": 58,
+		"need_money": 66410,
+		"add_red_bag": 17900,
+		"sell_price": 3430,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 112,
+		"food_id": 56,
+		"level": 2,
+		"cook_time": 70,
+		"need_money": 79700,
+		"add_red_bag": 18000,
+		"sell_price": 4160,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 113,
+		"food_id": 57,
+		"level": 1,
+		"cook_time": 59,
+		"need_money": 69870,
+		"add_red_bag": 18100,
+		"sell_price": 3548,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 114,
+		"food_id": 57,
+		"level": 2,
+		"cook_time": 71,
+		"need_money": 83850,
+		"add_red_bag": 18200,
+		"sell_price": 4302,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 115,
+		"food_id": 58,
+		"level": 1,
+		"cook_time": 60,
+		"need_money": 73460,
+		"add_red_bag": 18300,
+		"sell_price": 3668,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 116,
+		"food_id": 58,
+		"level": 2,
+		"cook_time": 72,
+		"need_money": 88160,
+		"add_red_bag": 18400,
+		"sell_price": 4446,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 117,
+		"food_id": 59,
+		"level": 1,
+		"cook_time": 61,
+		"need_money": 77160,
+		"add_red_bag": 18500,
+		"sell_price": 3790,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 118,
+		"food_id": 59,
+		"level": 2,
+		"cook_time": 74,
+		"need_money": 92600,
+		"add_red_bag": 18600,
+		"sell_price": 4594,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 119,
+		"food_id": 60,
+		"level": 1,
+		"cook_time": 62,
+		"need_money": 80980,
+		"add_red_bag": 18700,
+		"sell_price": 3914,
+		"eat_finish_red_pack_range": [35, 56]
+	}, {
+		"id": 120,
+		"food_id": 60,
+		"level": 2,
+		"cook_time": 75,
+		"need_money": 97180,
+		"add_red_bag": 18800,
+		"sell_price": 4744,
+		"eat_finish_red_pack_range": [35, 56]
+	}
+]

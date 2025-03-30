@@ -1,0 +1,302 @@
+[
+	{
+		"id": 1,
+		"key": "init_money",
+		"value": 800,
+		"description": "玩家钱的初始金额(单位元)"
+	},
+	{
+		"id": 3,
+		"key": "produce_trash_count",
+		"value": 10,
+		"description": "一张桌子坐多少人产生垃圾"
+	},
+	{
+		"id": 4,
+		"key": "today_into_people_max_count",
+		"value": 250,
+		"description": "一天最多多少客人进入游戏 单位: 客人（自动揽客）"
+	},
+	{
+		"id": 5,
+		"key": "sort_people_max_count",
+		"value": 10,
+		"description": "排队最大的人数（展示的最大人数，自动揽客遵循此数值）"
+	},
+	{
+		"id": 6,
+		"key": "people_move_speed",
+		"value": 0.5,
+		"description": "客人移动的速度 单位(一格（一格=40像素）/秒)"
+	},
+	{
+		"id": 7,
+		"key": "select_unlock_food_tick",
+		"value": 600,
+		"description": "客人多长时间可以进来点未解锁的食物 单位秒"
+	},
+	{
+		"id": 8,
+		"key": "select_food_kind_count",
+		"value": 2,
+		"description": "客人会点最贵的食物的种类 单位: 种"
+	},
+	{
+		"id": 9,
+		"key": "people_into_duration",
+		"value": 10,
+		"description": "每隔10秒会有一个给定的客人进来用餐"
+	},
+	{
+		"id": 10,
+		"key": "no_ad_max_people_count_percent",
+		"value": 0.5,
+		"description": "没有发传单的前提下 餐厅的人数最多为容量的0.5 单位百分比"
+	},
+	{
+		"id": 11,
+		"key": "people_into_shop_select_no_lock_food_duration",
+		"value": 30,
+		"description": "一个客人隔多长时间会进来选择一个没有解锁的食物的时间,单位秒(S)"
+	},
+	{
+		"id": 12,
+		"key": "bar_table_every_time_max_money",
+		"value": 1200,
+		"description": "吧台单次消费存储上限"
+	},
+	{
+		"id": 13,
+		"key": "bar_table_every_day_max_money",
+		"value": 500000,
+		"description": "吧台每天小费上限"
+	},
+	{
+		"id": 14,
+		"key": "bar_tip_add_money_duration",
+		"value": 30,
+		"description": "吧台每隔多少秒刷新一下小费统计 单位秒: 时间 * 桌子加成总数 = 获得小费数"
+	},
+	{
+		"id": 15,
+		"key": "video_let_profit_double_time",
+		"value": 360,
+		"description": "收益翻倍时间"
+	},
+	{
+		"id": 16,
+		"key": "video_let_profit_double_max_time",
+		"value": 1800,
+		"description": "收益翻倍的最大时间"
+	},
+	{
+		"id": 17,
+		"key": "shop_ad_click_count",
+		"value": 5,
+		"description": "当前可以招揽一位客人的最大次数 单位: 点击次数"
+	},
+	{
+		"id": 18,
+		"key": "shop_wait_ad_arrive_time",
+		"value": 300,
+		"description": "店外宣传满后倒计时的时间 单位:秒"
+	},
+	{
+		"id": 19,
+		"key": "start_every_day_drop_max_count",
+		"value": 5,
+		"description": "每天星评论最多掉落多少个"
+	},
+	{
+		"id": 20,
+		"key": "drop_star_duration",
+		"value": 300,
+		"description": "每隔多长时间掉落一个星星"
+	},
+	{
+		"id": 21,
+		"key": "special_people_sort_max_count",
+		"value": 1,
+		"description": "特殊人物排队的最大个数"
+	},
+	{
+		"id": 22,
+		"key": "video_double_profit_every_day_max_count",
+		"value": 10,
+		"description": "每天收益翻倍看视频的最大次数"
+	},
+	{
+		"id": 23,
+		"key": "bar_table_only_video_of_max_money",
+		"value": 50000,
+		"description": "吧台收益的到达多少钱后 只能看视频单倍领取 没有直接领取 单位: 钱"
+	},
+	{
+		"id": 24,
+		"key": "every_quick_get_customer_number",
+		"value": 20,
+		"description": "每天快速揽客的次数"
+	},
+	{
+		"id": 25,
+		"key": "every_time_get_customer_ticket_count",
+		"value": 100,
+		"description": "每天1次视频获得的传单数量"
+	},
+	{
+		"id": 26,
+		"key": "every_day_get_customer_ticket_max_count",
+		"value": 15,
+		"description": "每天获得传单的视频次数上限"
+	},
+	{
+		"id": 27,
+		"key": "by_video_quick_get_customer_count",
+		"value": 15,
+		"description": "一次快速揽客的数量 单位: 客人数量"
+	},
+	{
+		"id": 28,
+		"key": "food_id_percent",
+		"value": "[1, 0.7, 0.5, 0.3, 0]",
+		"description": "菜品ID百分比区间 越大越靠前"
+	},
+	{
+		"id": 29,
+		"key": "food_id_percent_of_random",
+		"value": "[1, 0.5, 0.3, 0.1, 0]",
+		"description": "菜品ID百分比区间随机百分比"
+	},
+	{
+		"id": 30,
+		"key": "init_star",
+		"value": 5000,
+		"description": "初始化的时候玩家的星星数量"
+	},
+	{
+		"id": 31,
+		"key": "video_add_waiter_timer",
+		"value": 500,
+		"description": "看一次视频添加的服务员的时间单位秒"
+	},
+	{
+		"id": 32,
+		"key": "waiter_max_time",
+		"value": 3000,
+		"description": "服务员的最大时间"
+	},
+	{
+		"id": 33,
+		"key": "waiter_max_video_count",
+		"value": 10,
+		"description": "每天服务员最大视频次数"
+	},
+	{
+		"id": 34,
+		"key": "init_ticket_count",
+		"value": 55,
+		"description": "玩家的初始传单数量"
+	},
+	{
+		"id": 35,
+		"key": "show_welfare_btn",
+		"value": 0,
+		"description": "是否显示福利入口: 1 显示 0:不显示"
+	},
+	{
+		"id": 36,
+		"key": "stop_auto_into_customer_count",
+		"value": 2,
+		"description": "排队人数超过M个暂停自动揽客"
+	},
+	{
+		"id": 37,
+		"key": "show_welfare_btn_day",
+		"value": 7,
+		"description": "开始展示福利的天数"
+	},
+	{
+		"id": 38,
+		"key": "show_newperson_btn_day",
+		"value": 0,
+		"description": "开始展示新人豪礼的天数"
+	},
+	{
+		"id": 39,
+		"key": "off_line_get_count",
+		"value": 10,
+		"description": "离线收益每天的最大领取次数"
+	},
+	{
+		"id": 40,
+		"key": "off_line_max_time",
+		"value": 10800,
+		"description": "一次离线最多的时间 单位秒"
+	},
+	{
+		"id": 41,
+		"key": "off_line_x",
+		"value": 0.8,
+		"description": "离线收益的系数"
+	},
+	{
+		"id": 42,
+		"key": "off_line_min_show_time",
+		"value": 600,
+		"description": "展示离线收益的最小时间"
+	},
+	{
+		"id": 43,
+		"key": "new_person_red_bag",
+		"value": 5,
+		"description": "新人豪礼红包金额"
+	},
+	{
+		"id": 44,
+		"key": "red_bag_to_money",
+		"value": 10000,
+		"description": "人民币转红包券的汇率"
+	},
+	{
+		"id": 45,
+		"key": "cash_out_money_tip_show_time",
+		"value": 5,
+		"description": "提现提示显示的时间"
+	},
+	{
+		"id": 46,
+		"key": "cash_out_money_tip_show_duration",
+		"value": 30,
+		"description": "提现提示显示的时间间隔"
+	},
+	{
+		"id": 47,
+		"key": "hide_newperson_btn_day",
+		"value": 7,
+		"description": "新人豪礼入口消失的注册天数"
+	},
+	{
+		"id": 48,
+		"key": "into_shop_speed",
+		"value": 300,
+		"description": "顾客进入餐厅的时候的速度"
+	},
+	{
+		"id": 49,
+		"key": "special_people_stay_duration",
+		"value": 15,
+		"description": "特殊人物站立的时间"
+	},
+	{
+		"id": 50,
+		"key": "guide_task_idle_time_out",
+		"value": 5,
+		"description": "引导任务按钮上提示信息的闲置超时时间"
+	},
+	{
+		"id": 51,
+		"key": "guide_task_display_time_out",
+		"value": 3,
+		"description": "引导任务按钮上的提示信息展示超时时间"
+	}
+]

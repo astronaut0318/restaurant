@@ -1,0 +1,41 @@
+
+fandianrili.png
+size: 995,958
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 49
+  size: 196, 200
+  orig: 200, 209
+  offset: 0, 5
+  index: -1
+带字日历纸
+  rotate: false
+  xy: 479, 482
+  size: 514, 474
+  orig: 517, 476
+  offset: 1, 1
+  index: -1
+空白纸
+  rotate: true
+  xy: 2, 439
+  size: 517, 475
+  orig: 517, 476
+  offset: 0, 1
+  index: -1
+空纸
+  rotate: true
+  xy: 479, 2
+  size: 478, 483
+  orig: 478, 483
+  offset: 0, 0
+  index: -1
+饭店开张头
+  rotate: false
+  xy: 2, 251
+  size: 456, 186
+  orig: 458, 186
+  offset: 1, 0
+  index: -1

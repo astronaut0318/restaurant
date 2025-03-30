@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c4477677-8c5d-4590-b21a-a0c0cfda7441",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 172,
+  "height": 124,
+  "platformSettings": {},
+  "subMetas": {
+    "燃气灶": {
+      "ver": "1.0.4",
+      "uuid": "a94c03de-3e78-4284-82d4-2cd8238d6606",
+      "rawTextureUuid": "c4477677-8c5d-4590-b21a-a0c0cfda7441",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 124,
+      "rawWidth": 172,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,384 @@
+
+chuniang_4.png
+size: 1009,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刘海
+  rotate: false
+  xy: 413, 100
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+刘海_0
+  rotate: true
+  xy: 652, 286
+  size: 168, 133
+  orig: 168, 142
+  offset: 0, 9
+  index: -1
+前发1
+  rotate: false
+  xy: 970, 13
+  size: 33, 139
+  orig: 33, 139
+  offset: 0, 0
+  index: -1
+前发2
+  rotate: false
+  xy: 819, 132
+  size: 51, 145
+  orig: 51, 145
+  offset: 0, 0
+  index: -1
+前发3
+  rotate: false
+  xy: 917, 132
+  size: 51, 145
+  orig: 51, 145
+  offset: 0, 0
+  index: -1
+加速眼睛1
+  rotate: false
+  xy: 940, 19
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+加速眼睛2
+  rotate: false
+  xy: 940, 19
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: false
+  xy: 2, 3
+  size: 19, 3
+  orig: 19, 3
+  offset: 0, 0
+  index: -1
+嘴巴_0
+  rotate: false
+  xy: 823, 2
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 642, 2
+  size: 103, 127
+  orig: 103, 127
+  offset: 0, 0
+  index: -1
+头_1
+  rotate: true
+  xy: 771, 16
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+头发_0
+  rotate: false
+  xy: 317, 277
+  size: 168, 177
+  orig: 168, 177
+  offset: 0, 0
+  index: -1
+头发_1
+  rotate: false
+  xy: 917, 279
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+完成眼睛1
+  rotate: false
+  xy: 942, 110
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+完成眼睛2
+  rotate: true
+  xy: 942, 81
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+手1
+  rotate: true
+  xy: 872, 175
+  size: 32, 43
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+手1_0
+  rotate: false
+  xy: 872, 133
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+手1_1
+  rotate: false
+  xy: 899, 49
+  size: 41, 39
+  orig: 41, 40
+  offset: 0, 1
+  index: -1
+手2
+  rotate: true
+  xy: 970, 238
+  size: 39, 37
+  orig: 39, 38
+  offset: 0, 1
+  index: -1
+手2_0
+  rotate: true
+  xy: 899, 90
+  size: 40, 41
+  orig: 40, 42
+  offset: 0, 1
+  index: -1
+手2_1
+  rotate: true
+  xy: 899, 6
+  size: 41, 39
+  orig: 41, 40
+  offset: 0, 1
+  index: -1
+盘子
+  rotate: true
+  xy: 278, 90
+  size: 181, 133
+  orig: 181, 133
+  offset: 0, 0
+  index: -1
+眉毛1
+  rotate: false
+  xy: 114, 7
+  size: 37, 5
+  orig: 37, 5
+  offset: 0, 0
+  index: -1
+眉毛1_0
+  rotate: false
+  xy: 48, 6
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+眉毛2
+  rotate: false
+  xy: 153, 7
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+眉毛2_0
+  rotate: false
+  xy: 81, 6
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+眼睛1
+  rotate: true
+  xy: 872, 209
+  size: 33, 43
+  orig: 37, 47
+  offset: 2, 2
+  index: -1
+眼睛1_0
+  rotate: true
+  xy: 970, 154
+  size: 40, 35
+  orig: 42, 37
+  offset: 1, 1
+  index: -1
+眼睛2
+  rotate: true
+  xy: 872, 244
+  size: 46, 43
+  orig: 48, 49
+  offset: 0, 3
+  index: -1
+眼睛2_0
+  rotate: true
+  xy: 970, 196
+  size: 40, 36
+  orig: 42, 37
+  offset: 1, 0
+  index: -1
+笔
+  rotate: false
+  xy: 291, 3
+  size: 141, 85
+  orig: 142, 85
+  offset: 1, 0
+  index: -1
+胳膊1
+  rotate: true
+  xy: 131, 14
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+胳膊2
+  rotate: true
+  xy: 131, 14
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+胳膊2_
+  rotate: true
+  xy: 131, 14
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+胳膊2_0
+  rotate: true
+  xy: 131, 14
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+胳膊1_
+  rotate: true
+  xy: 211, 15
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+胳膊1_0
+  rotate: true
+  xy: 211, 15
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+裙子
+  rotate: true
+  xy: 140, 77
+  size: 187, 136
+  orig: 187, 138
+  offset: 0, 2
+  index: -1
+裙子_0
+  rotate: true
+  xy: 2, 76
+  size: 188, 136
+  orig: 188, 138
+  offset: 0, 2
+  index: -1
+裙子_1
+  rotate: true
+  xy: 2, 266
+  size: 188, 137
+  orig: 188, 138
+  offset: 0, 1
+  index: -1
+账本
+  rotate: false
+  xy: 917, 324
+  size: 89, 130
+  orig: 90, 131
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 567, 107
+  size: 124, 171
+  orig: 124, 171
+  offset: 0, 0
+  index: -1
+身体_0
+  rotate: false
+  xy: 693, 120
+  size: 124, 164
+  orig: 125, 164
+  offset: 1, 0
+  index: -1
+身体_1
+  rotate: false
+  xy: 787, 292
+  size: 128, 162
+  orig: 128, 162
+  offset: 0, 0
+  index: -1
+铲子
+  rotate: false
+  xy: 562, 5
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+铲子_0
+  rotate: false
+  xy: 25, 14
+  size: 104, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+锅
+  rotate: true
+  xy: 487, 280
+  size: 174, 163
+  orig: 174, 163
+  offset: 0, 0
+  index: -1
+锅盘一体
+  rotate: true
+  xy: 141, 273
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 2, 8
+  size: 66, 21
+  orig: 69, 21
+  offset: 3, 0
+  index: -1
+高兴眼睛1
+  rotate: false
+  xy: 771, 2
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+高兴眼睛2
+  rotate: false
+  xy: 797, 2
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+鱼
+  rotate: true
+  xy: 434, 3
+  size: 95, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+鼻子
+  rotate: true
+  xy: 32, 5
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+鼻子_0
+  rotate: false
+  xy: 25, 2
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,63 @@
+[
+	{
+		"id": 1,
+		"money_p_s": [1, 1],
+		"repair_award_money": [3000, 5000]
+	}, {
+		"id": 2,
+		"money_p_s": [1, 1],
+		"repair_award_money": [3000, 5000]
+	}, {
+		"id": 3,
+		"money_p_s": [1, 1],
+		"repair_award_money": [3000, 5000]
+	}, {
+		"id": 4,
+		"money_p_s": [1, 1],
+		"repair_award_money": [4000, 6000]
+	}, {
+		"id": 5,
+		"money_p_s": [1, 2],
+		"repair_award_money": [8000, 15000]
+	}, {
+		"id": 6,
+		"money_p_s": [1, 2],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 7,
+		"money_p_s": [2, 3],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 8,
+		"money_p_s": [2, 3],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 9,
+		"money_p_s": [2, 3],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 10,
+		"money_p_s": [2, 3],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 11,
+		"money_p_s": [2, 3],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 12,
+		"money_p_s": [2, 3],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 13,
+		"money_p_s": [3, 4],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 14,
+		"money_p_s": [3, 4],
+		"repair_award_money": [20000, 30000]
+	}, {
+		"id": 15,
+		"money_p_s": [3, 4],
+		"repair_award_money": [20000, 30000]
+	}
+]

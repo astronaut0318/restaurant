@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d8a3503a-ab11-4f4c-a0c1-0cc43045451b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 148,
+  "height": 200,
+  "platformSettings": {},
+  "subMetas": {
+    "cook_douidouniang": {
+      "ver": "1.0.4",
+      "uuid": "2c67c242-c346-49f0-97f2-86152609984e",
+      "rawTextureUuid": "d8a3503a-ab11-4f4c-a0c1-0cc43045451b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 147,
+      "height": 199,
+      "rawWidth": 148,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

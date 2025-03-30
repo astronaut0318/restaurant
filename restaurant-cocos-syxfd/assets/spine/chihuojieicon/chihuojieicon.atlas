@@ -1,0 +1,41 @@
+
+chihuojieicon.png
+size: 461,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 264, 9
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+guo
+  rotate: false
+  xy: 2, 2
+  size: 145, 91
+  orig: 159, 97
+  offset: 0, 0
+  index: -1
+yann
+  rotate: true
+  xy: 350, 24
+  size: 20, 53
+  orig: 24, 55
+  offset: 2, 1
+  index: -1
+yann2
+  rotate: true
+  xy: 149, 8
+  size: 85, 113
+  orig: 85, 136
+  offset: 0, 19
+  index: -1
+zi
+  rotate: false
+  xy: 350, 46
+  size: 109, 47
+  orig: 109, 47
+  offset: 0, 0
+  index: -1

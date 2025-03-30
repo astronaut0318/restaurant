@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "info": "书阳小饭馆福利视频",
+        "reward_type": 1,
+        "reward_value": 5000,
+        "condition_key": 1,
+        "condition_value": 3
+    },
+    {
+        "id": 2,
+        "info": "累计招待100个客人",
+        "reward_type": 1,
+        "reward_value": 4000,
+        "condition_key": 2,
+        "condition_value": 100
+    },
+    {
+        "id": 3,
+        "info": "一键揽客5次",
+        "reward_type": 1,
+        "reward_value": 5000,
+        "condition_key": 3,
+        "condition_value": 5
+    },
+    {
+        "id": 4,
+        "info": "招待土豪3次",
+        "reward_type": 1,
+        "reward_value": 3600,
+        "condition_key": 4,
+        "condition_value": 3
+    },
+    {
+        "id": 5,
+        "info": "收取会员充值30000",
+        "reward_type": 1,
+        "reward_value": 3600,
+        "condition_key": 5,
+        "condition_value": 30000
+    }
+]

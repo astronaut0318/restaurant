@@ -1,0 +1,27 @@
+
+caideng.png
+size: 94,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 68, 22
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+qiu0
+  rotate: false
+  xy: 68, 42
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

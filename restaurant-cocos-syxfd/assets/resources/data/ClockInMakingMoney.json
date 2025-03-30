@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "5日打卡赚钱",
+        "need_day": 5,
+        "reward_money": 100000,
+        "canGet": false,
+        "geted": false
+    },
+    {
+        "id": 2,
+        "title": "10日打卡赚钱",
+        "need_day": 10,
+        "reward_money": 200000,
+        "canGet": false,
+        "geted": false
+    },
+    {
+        "id": 3,
+        "title": "15日打卡赚钱",
+        "need_day": 15,
+        "reward_money": 300000,
+        "canGet": false,
+        "geted": false
+    },
+    {
+        "id": 4,
+        "title": "20日打卡赚钱",
+        "need_day": 20,
+        "reward_money": 500000,
+        "canGet": false,
+        "geted": false
+    },
+    {
+        "id": 5,
+        "title": "30日打卡赚钱",
+        "need_day": 30,
+        "reward_money": 600000,
+        "canGet": false,
+        "geted": false
+    },
+    {
+        "id": 6,
+        "title": "50日打卡赚钱",
+        "need_day": 50,
+        "reward_money": 1000000,
+        "canGet": false,
+        "geted": false
+    },
+    {
+        "id": 7,
+        "title": "90日打卡赚钱",
+        "need_day": 90,
+        "reward_money": 2000000,
+        "canGet": false,
+        "geted": false
+    }
+]
